@@ -1,0 +1,1952 @@
+Age,Male,Income,Area,Extrovert,Weekday,Time,Ad location,Ad variant,Clicked
+18,1,13279,Rural,1,1,Evening,Push notif,Sports,1
+20,1,14428,Rural,1,1,Evening,Push notif,Sports,1
+21,1,16785,Rural,1,1,Evening,Push notif,Sports,1
+19,1,14912,Rural,1,1,Evening,Push notif,Sports,1
+18,1,13183,Rural,1,1,Evening,Push notif,Sports,1
+22,1,13387,Rural,1,1,Evening,Push notif,Sports,1
+23,1,14845,Rural,1,1,Evening,Push notif,Sports,1
+23,1,15688,Rural,1,1,Evening,Push notif,Sports,1
+24,1,13377,Rural,1,1,Evening,Push notif,Sports,1
+21,1,17204,Rural,1,1,Evening,Push notif,Sports,1
+23,1,13074,Rural,1,1,Evening,Push notif,Sports,1
+19,1,14489,Rural,1,1,Evening,Push notif,Sports,1
+22,1,14557,Rural,1,1,Evening,Push notif,Sports,1
+25,1,13384,Rural,1,1,Evening,Push notif,Sports,1
+21,1,13355,Rural,1,1,Evening,Push notif,Sports,1
+24,1,15976,Rural,1,1,Evening,Push notif,Sports,1
+20,1,16040,Rural,1,1,Evening,Push notif,Sports,1
+22,1,14943,Rural,1,1,Evening,Push notif,Sports,1
+24,1,13970,Rural,1,1,Evening,Push notif,Sports,1
+18,1,16376,Rural,1,1,Evening,Push notif,Sports,1
+25,1,16555,Rural,1,1,Evening,Push notif,Sports,1
+22,1,15405,Rural,1,1,Evening,Push notif,Sports,1
+19,1,16323,Rural,1,1,Evening,Push notif,Sports,1
+20,1,14742,Rural,1,1,Evening,Push notif,Sports,1
+24,1,16930,Rural,1,1,Evening,Push notif,Sports,1
+18,1,15285,Rural,1,1,Evening,Push notif,Sports,1
+20,1,14316,Rural,1,1,Evening,Push notif,Sports,1
+19,1,16005,Rural,1,1,Evening,Push notif,Sports,1
+18,1,15699,Rural,1,1,Evening,Push notif,Sports,1
+23,1,14584,Rural,1,1,Evening,Push notif,Sports,1
+20,1,15304,Rural,1,1,Evening,Push notif,Sports,1
+21,1,15360,Rural,1,1,Evening,Push notif,Sports,1
+19,1,15061,Rural,1,1,Evening,Push notif,Sports,1
+24,1,15570,Rural,1,1,Evening,Push notif,Sports,1
+20,1,14893,Rural,1,1,Evening,Push notif,Sports,1
+24,1,13363,Rural,1,1,Evening,Push notif,Sports,1
+25,1,16268,Rural,1,1,Evening,Push notif,Sports,1
+19,1,16307,Rural,1,1,Evening,Push notif,Sports,1
+20,1,13971,Rural,1,1,Evening,Push notif,Sports,1
+20,1,14895,Rural,1,1,Evening,Push notif,Sports,1
+21,1,15254,Rural,1,1,Evening,Push notif,Sports,1
+20,1,17995,Rural,1,1,Evening,Push notif,Sports,1
+21,1,15032,Rural,1,1,Evening,Push notif,Sports,1
+20,1,17771,Rural,1,1,Evening,Push notif,Sports,1
+22,1,16256,Rural,1,1,Evening,Push notif,Sports,1
+18,1,13130,Rural,1,1,Evening,Push notif,Sports,1
+22,1,16243,Rural,1,1,Evening,Push notif,Sports,1
+19,1,13391,Rural,1,1,Evening,Push notif,Sports,1
+24,1,13230,Rural,1,1,Evening,Push notif,Sports,1
+23,1,16945,Rural,1,1,Evening,Push notif,Sports,1
+24,1,15729,Rural,1,1,Evening,Push notif,Sports,1
+22,1,17261,Rural,1,1,Evening,Push notif,Sports,1
+22,1,16137,Rural,1,1,Evening,Push notif,Sports,1
+23,1,16329,Rural,1,1,Evening,Push notif,Sports,1
+20,1,15243,Rural,1,1,Evening,Push notif,Sports,1
+22,1,16602,Rural,1,1,Evening,Push notif,Sports,1
+24,1,16494,Rural,1,1,Evening,Push notif,Sports,1
+21,1,13699,Rural,1,1,Evening,Push notif,Sports,1
+22,1,16711,Rural,1,1,Evening,Push notif,Sports,1
+20,1,15572,Rural,1,1,Evening,Push notif,Sports,1
+19,1,14217,Rural,1,1,Evening,Push notif,Sports,1
+20,1,17859,Rural,1,1,Evening,Push notif,Sports,1
+21,1,17161,Rural,1,1,Evening,Push notif,Sports,1
+24,1,15793,Rural,1,1,Evening,Push notif,Sports,1
+23,1,15398,Rural,1,1,Evening,Push notif,Sports,1
+21,1,14917,Rural,1,1,Evening,Push notif,Sports,1
+19,1,17176,Rural,1,1,Evening,Push notif,Sports,1
+18,1,15977,Rural,1,1,Evening,Push notif,Sports,1
+23,1,13577,Rural,1,1,Evening,Push notif,Sports,1
+24,1,14791,Rural,1,1,Evening,Push notif,Sports,1
+22,1,15349,Rural,1,1,Evening,Push notif,Sports,1
+18,1,14475,Rural,1,1,Evening,Push notif,Sports,1
+18,1,15043,Rural,1,1,Evening,Push notif,Sports,1
+22,1,17595,Rural,1,1,Evening,Push notif,Sports,1
+23,1,16145,Rural,1,1,Evening,Push notif,Sports,1
+22,1,17443,Rural,1,1,Evening,Push notif,Sports,1
+18,1,16893,Rural,1,1,Evening,Push notif,Sports,1
+23,1,14521,Rural,1,1,Evening,Push notif,Sports,1
+21,1,16240,Rural,1,1,Evening,Push notif,Sports,1
+22,1,13175,Rural,1,1,Evening,Push notif,Sports,1
+18,1,14890,Rural,1,1,Evening,Push notif,Sports,1
+25,1,14410,Rural,1,1,Evening,Push notif,Sports,1
+21,1,14650,Rural,1,1,Evening,Push notif,Sports,1
+22,1,14857,Rural,1,1,Evening,Push notif,Sports,1
+18,1,16638,Rural,1,1,Evening,Push notif,Sports,1
+22,1,15295,Rural,1,1,Evening,Push notif,Sports,1
+22,1,14917,Rural,1,1,Evening,Push notif,Sports,1
+18,1,14615,Rural,1,1,Evening,Push notif,Sports,1
+20,1,14248,Rural,1,1,Evening,Push notif,Sports,1
+23,1,14638,Rural,1,1,Evening,Push notif,Sports,1
+23,1,13206,Rural,1,1,Evening,Push notif,Sports,1
+20,1,16311,Rural,1,1,Evening,Push notif,Sports,1
+23,1,14445,Rural,1,1,Evening,Push notif,Sports,1
+18,1,17866,Rural,1,1,Evening,Push notif,Sports,1
+24,1,14413,Rural,1,1,Evening,Push notif,Sports,1
+22,1,17910,Rural,1,1,Evening,Push notif,Sports,1
+25,1,13020,Rural,1,1,Evening,Push notif,Sports,1
+19,1,17053,Rural,1,1,Evening,Push notif,Sports,1
+23,1,14278,Rural,1,1,Evening,Push notif,Sports,1
+18,1,16678,Rural,1,1,Evening,Push notif,Sports,1
+20,1,14651,Rural,1,1,Evening,Push notif,Sports,1
+24,1,15313,Rural,1,1,Evening,Push notif,Sports,1
+25,1,14081,Rural,1,1,Evening,Push notif,Sports,1
+24,1,16644,Rural,1,1,Evening,Push notif,Sports,1
+24,1,13354,Rural,1,1,Evening,Push notif,Sports,1
+18,1,17502,Rural,1,1,Evening,Push notif,Sports,1
+23,1,15689,Rural,1,1,Evening,Push notif,Sports,1
+25,1,17973,Rural,1,1,Evening,Push notif,Sports,1
+22,1,13277,Rural,1,1,Evening,Push notif,Sports,1
+18,1,14356,Rural,1,1,Evening,Push notif,Sports,1
+22,1,13604,Rural,1,1,Evening,Push notif,Sports,1
+21,1,16949,Rural,1,1,Evening,Push notif,Sports,1
+21,1,14093,Rural,1,1,Evening,Push notif,Sports,1
+18,1,15077,Rural,1,1,Evening,Push notif,Sports,1
+24,1,17199,Rural,1,1,Evening,Push notif,Sports,1
+20,1,13230,Rural,1,1,Evening,Push notif,Sports,1
+25,1,14991,Rural,1,1,Evening,Push notif,Sports,1
+23,1,17669,Rural,1,1,Evening,Push notif,Sports,1
+24,1,15493,Rural,1,1,Evening,Push notif,Sports,1
+25,1,17938,Rural,1,1,Evening,Push notif,Sports,1
+19,1,16177,Rural,1,1,Evening,Push notif,Sports,1
+24,1,17046,Rural,1,1,Evening,Push notif,Sports,1
+22,1,13685,Rural,1,1,Evening,Push notif,Sports,1
+19,1,16900,Rural,1,1,Evening,Push notif,Sports,1
+21,1,16789,Rural,1,1,Evening,Push notif,Sports,1
+23,1,13043,Rural,1,1,Evening,Push notif,Sports,1
+24,1,15137,Rural,1,1,Evening,Push notif,Sports,1
+21,1,13107,Rural,1,1,Evening,Push notif,Sports,1
+22,1,13379,Rural,1,1,Evening,Push notif,Sports,1
+24,1,13990,Rural,1,1,Evening,Push notif,Sports,1
+22,1,14656,Rural,1,1,Evening,Push notif,Sports,1
+24,1,15977,Rural,1,1,Evening,Push notif,Sports,1
+20,1,13447,Rural,1,1,Evening,Push notif,Sports,1
+19,1,16416,Rural,1,1,Evening,Push notif,Sports,1
+22,1,13759,Rural,1,1,Evening,Push notif,Sports,1
+24,1,17582,Rural,1,1,Evening,Push notif,Sports,1
+24,1,14027,Rural,1,1,Evening,Push notif,Sports,1
+20,1,17809,Rural,1,1,Evening,Push notif,Sports,1
+19,1,16029,Rural,1,1,Evening,Push notif,Sports,1
+20,1,17378,Rural,1,1,Evening,Push notif,Sports,1
+23,1,15993,Rural,1,1,Evening,Push notif,Sports,1
+21,1,17079,Rural,1,1,Evening,Push notif,Sports,1
+25,1,15831,Rural,1,1,Evening,Push notif,Sports,1
+23,1,17300,Rural,1,1,Evening,Push notif,Sports,1
+25,1,15601,Rural,1,1,Evening,Push notif,Sports,1
+21,1,16517,Rural,1,1,Evening,Push notif,Sports,1
+22,1,16404,Rural,1,1,Evening,Push notif,Sports,1
+19,0,25291,Urban,1,0,Morning,Banner,Fashion,1
+22,0,27715,Urban,1,0,Morning,Banner,Fashion,1
+20,0,26613,Urban,1,0,Morning,Banner,Fashion,1
+19,0,25809,Urban,1,0,Morning,Banner,Fashion,1
+23,0,29518,Urban,1,0,Morning,Banner,Fashion,1
+18,0,27361,Urban,1,0,Morning,Banner,Fashion,1
+24,0,28023,Urban,1,0,Morning,Banner,Fashion,1
+20,0,28276,Urban,1,0,Morning,Banner,Fashion,1
+18,0,29479,Urban,1,0,Morning,Banner,Fashion,1
+23,0,29499,Urban,1,0,Morning,Banner,Fashion,1
+23,0,25365,Urban,1,0,Morning,Banner,Fashion,1
+24,0,26257,Urban,1,0,Morning,Banner,Fashion,1
+19,0,26235,Urban,1,0,Morning,Banner,Fashion,1
+21,0,28386,Urban,1,0,Morning,Banner,Fashion,1
+25,0,27301,Urban,1,0,Morning,Banner,Fashion,1
+23,0,26898,Urban,1,0,Morning,Banner,Fashion,1
+20,0,28790,Urban,1,0,Morning,Banner,Fashion,1
+22,0,29489,Urban,1,0,Morning,Banner,Fashion,1
+20,0,28487,Urban,1,0,Morning,Banner,Fashion,1
+25,0,27684,Urban,1,0,Morning,Banner,Fashion,1
+24,0,25409,Urban,1,0,Morning,Banner,Fashion,1
+19,0,26678,Urban,1,0,Morning,Banner,Fashion,1
+20,0,29640,Urban,1,0,Morning,Banner,Fashion,1
+21,0,27746,Urban,1,0,Morning,Banner,Fashion,1
+19,0,25360,Urban,1,0,Morning,Banner,Fashion,1
+21,0,28354,Urban,1,0,Morning,Banner,Fashion,1
+24,0,29868,Urban,1,0,Morning,Banner,Fashion,1
+19,0,26689,Urban,1,0,Morning,Banner,Fashion,1
+21,0,26071,Urban,1,0,Morning,Banner,Fashion,1
+24,0,26223,Urban,1,0,Morning,Banner,Fashion,1
+18,0,28889,Urban,1,0,Morning,Banner,Fashion,1
+23,0,29803,Urban,1,0,Morning,Banner,Fashion,1
+21,0,26234,Urban,1,0,Morning,Banner,Fashion,1
+23,0,27682,Urban,1,0,Morning,Banner,Fashion,1
+22,0,28496,Urban,1,0,Morning,Banner,Fashion,1
+22,0,25248,Urban,1,0,Morning,Banner,Fashion,1
+18,0,29708,Urban,1,0,Morning,Banner,Fashion,1
+22,0,25152,Urban,1,0,Morning,Banner,Fashion,1
+20,0,25886,Urban,1,0,Morning,Banner,Fashion,1
+19,0,28108,Urban,1,0,Morning,Banner,Fashion,1
+25,0,28407,Urban,1,0,Morning,Banner,Fashion,1
+23,0,28255,Urban,1,0,Morning,Banner,Fashion,1
+19,0,26052,Urban,1,0,Morning,Banner,Fashion,1
+22,0,28210,Urban,1,0,Morning,Banner,Fashion,1
+23,0,29520,Urban,1,0,Morning,Banner,Fashion,1
+25,0,27401,Urban,1,0,Morning,Banner,Fashion,1
+23,0,26478,Urban,1,0,Morning,Banner,Fashion,1
+25,0,28288,Urban,1,0,Morning,Banner,Fashion,1
+24,0,28520,Urban,1,0,Morning,Banner,Fashion,1
+18,0,25251,Urban,1,0,Morning,Banner,Fashion,1
+20,0,29787,Urban,1,0,Morning,Banner,Fashion,1
+21,0,26340,Urban,1,0,Morning,Banner,Fashion,1
+22,0,29426,Urban,1,0,Morning,Banner,Fashion,1
+21,0,25503,Urban,1,0,Morning,Banner,Fashion,1
+25,0,28832,Urban,1,0,Morning,Banner,Fashion,1
+20,0,26019,Urban,1,0,Morning,Banner,Fashion,1
+25,0,27693,Urban,1,0,Morning,Banner,Fashion,1
+18,0,26616,Urban,1,0,Morning,Banner,Fashion,1
+25,0,28980,Urban,1,0,Morning,Banner,Fashion,1
+19,0,26510,Urban,1,0,Morning,Banner,Fashion,1
+18,0,28914,Urban,1,0,Morning,Banner,Fashion,1
+21,0,26432,Urban,1,0,Morning,Banner,Fashion,1
+21,0,28933,Urban,1,0,Morning,Banner,Fashion,1
+23,0,28633,Urban,1,0,Morning,Banner,Fashion,1
+24,0,28247,Urban,1,0,Morning,Banner,Fashion,1
+24,0,27138,Urban,1,0,Morning,Banner,Fashion,1
+23,0,29542,Urban,1,0,Morning,Banner,Fashion,1
+22,0,26832,Urban,1,0,Morning,Banner,Fashion,1
+22,0,26120,Urban,1,0,Morning,Banner,Fashion,1
+24,0,28606,Urban,1,0,Morning,Banner,Fashion,1
+21,0,29480,Urban,1,0,Morning,Banner,Fashion,1
+18,0,27317,Urban,1,0,Morning,Banner,Fashion,1
+18,0,25282,Urban,1,0,Morning,Banner,Fashion,1
+19,0,27002,Urban,1,0,Morning,Banner,Fashion,1
+19,0,27541,Urban,1,0,Morning,Banner,Fashion,1
+18,0,25854,Urban,1,0,Morning,Banner,Fashion,1
+23,0,27731,Urban,1,0,Morning,Banner,Fashion,1
+21,0,29476,Urban,1,0,Morning,Banner,Fashion,1
+25,0,28570,Urban,1,0,Morning,Banner,Fashion,1
+20,0,29627,Urban,1,0,Morning,Banner,Fashion,1
+25,0,27375,Urban,1,0,Morning,Banner,Fashion,1
+25,0,29821,Urban,1,0,Morning,Banner,Fashion,1
+20,0,28728,Urban,1,0,Morning,Banner,Fashion,1
+23,0,26125,Urban,1,0,Morning,Banner,Fashion,1
+20,0,25582,Urban,1,0,Morning,Banner,Fashion,1
+18,0,29334,Urban,1,0,Morning,Banner,Fashion,1
+21,0,25874,Urban,1,0,Morning,Banner,Fashion,1
+21,0,28255,Urban,1,0,Morning,Banner,Fashion,1
+19,0,26861,Urban,1,0,Morning,Banner,Fashion,1
+20,0,26431,Urban,1,0,Morning,Banner,Fashion,1
+20,0,27336,Urban,1,0,Morning,Banner,Fashion,1
+25,0,28722,Urban,1,0,Morning,Banner,Fashion,1
+24,0,26071,Urban,1,0,Morning,Banner,Fashion,1
+22,0,28230,Urban,1,0,Morning,Banner,Fashion,1
+22,0,25216,Urban,1,0,Morning,Banner,Fashion,1
+24,0,28273,Urban,1,0,Morning,Banner,Fashion,1
+19,0,26457,Urban,1,0,Morning,Banner,Fashion,1
+22,0,26978,Urban,1,0,Morning,Banner,Fashion,1
+21,0,28733,Urban,1,0,Morning,Banner,Fashion,1
+21,0,26570,Urban,1,0,Morning,Banner,Fashion,1
+19,0,29732,Urban,1,0,Morning,Banner,Fashion,1
+20,0,29150,Urban,1,0,Morning,Banner,Fashion,1
+20,0,28733,Urban,1,0,Morning,Banner,Fashion,1
+22,0,26299,Urban,1,0,Morning,Banner,Fashion,1
+22,0,25200,Urban,1,0,Morning,Banner,Fashion,1
+20,0,25030,Urban,1,0,Morning,Banner,Fashion,1
+22,0,26699,Urban,1,0,Morning,Banner,Fashion,1
+20,0,25632,Urban,1,0,Morning,Banner,Fashion,1
+25,0,29599,Urban,1,0,Morning,Banner,Fashion,1
+21,0,26838,Urban,1,0,Morning,Banner,Fashion,1
+21,0,29040,Urban,1,0,Morning,Banner,Fashion,1
+22,0,26296,Urban,1,0,Morning,Banner,Fashion,1
+22,0,27953,Urban,1,0,Morning,Banner,Fashion,1
+18,0,28777,Urban,1,0,Morning,Banner,Fashion,1
+22,0,27403,Urban,1,0,Morning,Banner,Fashion,1
+24,0,29313,Urban,1,0,Morning,Banner,Fashion,1
+20,0,28221,Urban,1,0,Morning,Banner,Fashion,1
+18,0,27928,Urban,1,0,Morning,Banner,Fashion,1
+19,0,27090,Urban,1,0,Morning,Banner,Fashion,1
+25,0,27966,Urban,1,0,Morning,Banner,Fashion,1
+25,0,28949,Urban,1,0,Morning,Banner,Fashion,1
+22,0,25560,Urban,1,0,Morning,Banner,Fashion,1
+24,0,28366,Urban,1,0,Morning,Banner,Fashion,1
+24,0,27636,Urban,1,0,Morning,Banner,Fashion,1
+21,0,29431,Urban,1,0,Morning,Banner,Fashion,1
+21,0,29258,Urban,1,0,Morning,Banner,Fashion,1
+23,0,29635,Urban,1,0,Morning,Banner,Fashion,1
+18,0,29940,Urban,1,0,Morning,Banner,Fashion,1
+24,0,26132,Urban,1,0,Morning,Banner,Fashion,1
+23,0,27259,Urban,1,0,Morning,Banner,Fashion,1
+22,0,26967,Urban,1,0,Morning,Banner,Fashion,1
+24,0,29061,Urban,1,0,Morning,Banner,Fashion,1
+21,0,27243,Urban,1,0,Morning,Banner,Fashion,1
+19,0,27517,Urban,1,0,Morning,Banner,Fashion,1
+18,0,26469,Urban,1,0,Morning,Banner,Fashion,1
+24,0,26217,Urban,1,0,Morning,Banner,Fashion,1
+21,0,29265,Urban,1,0,Morning,Banner,Fashion,1
+25,0,25305,Urban,1,0,Morning,Banner,Fashion,1
+22,0,29291,Urban,1,0,Morning,Banner,Fashion,1
+23,0,28984,Urban,1,0,Morning,Banner,Fashion,1
+25,0,25489,Urban,1,0,Morning,Banner,Fashion,1
+25,0,29636,Urban,1,0,Morning,Banner,Fashion,1
+19,0,28897,Urban,1,0,Morning,Banner,Fashion,1
+25,0,25578,Urban,1,0,Morning,Banner,Fashion,1
+22,0,26054,Urban,1,0,Morning,Banner,Fashion,1
+24,0,25348,Urban,1,0,Morning,Banner,Fashion,1
+23,0,26364,Urban,1,0,Morning,Banner,Fashion,1
+19,0,25284,Urban,1,0,Morning,Banner,Fashion,1
+19,0,28051,Urban,1,0,Morning,Banner,Fashion,1
+23,0,29537,Urban,1,0,Morning,Banner,Fashion,1
+18,0,27069,Urban,1,0,Morning,Banner,Fashion,1
+18,0,29903,Urban,1,0,Morning,Banner,Fashion,1
+18,0,26773,Urban,1,0,Morning,Banner,Fashion,1
+27,0,38474,Suburban,1,0,Afternoon,Pop up,Travel,1
+27,1,33295,Suburban,1,0,Afternoon,Pop up,Travel,1
+27,1,37443,Suburban,1,0,Afternoon,Pop up,Travel,1
+27,0,32434,Suburban,1,0,Afternoon,Pop up,Travel,1
+27,0,39489,Suburban,1,0,Afternoon,Pop up,Travel,1
+29,0,30456,Suburban,1,0,Afternoon,Pop up,Travel,1
+33,0,40869,Suburban,1,0,Afternoon,Pop up,Travel,1
+35,0,42391,Suburban,1,0,Afternoon,Pop up,Travel,1
+31,0,35925,Suburban,1,0,Afternoon,Pop up,Travel,1
+32,0,31375,Suburban,1,0,Afternoon,Pop up,Travel,1
+29,0,37014,Suburban,1,0,Afternoon,Pop up,Travel,1
+32,0,38042,Suburban,1,0,Afternoon,Pop up,Travel,1
+34,1,44761,Suburban,1,0,Afternoon,Pop up,Travel,1
+31,0,43407,Suburban,1,0,Afternoon,Pop up,Travel,1
+27,1,38265,Suburban,1,0,Afternoon,Pop up,Travel,1
+26,1,34069,Suburban,1,0,Afternoon,Pop up,Travel,1
+27,0,36181,Suburban,1,0,Afternoon,Pop up,Travel,1
+29,0,41079,Suburban,1,0,Afternoon,Pop up,Travel,1
+31,1,30007,Suburban,1,0,Afternoon,Pop up,Travel,1
+29,0,42942,Suburban,1,0,Afternoon,Pop up,Travel,1
+33,0,44765,Suburban,1,0,Afternoon,Pop up,Travel,1
+27,1,33193,Suburban,1,0,Afternoon,Pop up,Travel,1
+31,0,39673,Suburban,1,0,Afternoon,Pop up,Travel,1
+32,0,38305,Suburban,1,0,Afternoon,Pop up,Travel,1
+27,1,32407,Suburban,1,0,Afternoon,Pop up,Travel,1
+28,1,40954,Suburban,1,0,Afternoon,Pop up,Travel,1
+34,1,33011,Suburban,1,0,Afternoon,Pop up,Travel,1
+35,1,43148,Suburban,1,0,Afternoon,Pop up,Travel,1
+34,1,38075,Suburban,1,0,Afternoon,Pop up,Travel,1
+26,1,31070,Suburban,1,0,Afternoon,Pop up,Travel,1
+30,1,43300,Suburban,1,0,Afternoon,Pop up,Travel,1
+33,1,36834,Suburban,1,0,Afternoon,Pop up,Travel,1
+33,1,33961,Suburban,1,0,Afternoon,Pop up,Travel,1
+32,1,43501,Suburban,1,0,Afternoon,Pop up,Travel,1
+27,0,32083,Suburban,1,0,Afternoon,Pop up,Travel,1
+31,0,43541,Suburban,1,0,Afternoon,Pop up,Travel,1
+27,0,42646,Suburban,1,0,Afternoon,Pop up,Travel,1
+34,1,38419,Suburban,1,0,Afternoon,Pop up,Travel,1
+30,1,30856,Suburban,1,0,Afternoon,Pop up,Travel,1
+34,0,34801,Suburban,1,0,Afternoon,Pop up,Travel,1
+28,1,30234,Suburban,1,0,Afternoon,Pop up,Travel,1
+31,1,31168,Suburban,1,0,Afternoon,Pop up,Travel,1
+32,1,41913,Suburban,1,0,Afternoon,Pop up,Travel,1
+27,1,30775,Suburban,1,0,Afternoon,Pop up,Travel,1
+27,0,31435,Suburban,1,0,Afternoon,Pop up,Travel,1
+34,0,32325,Suburban,1,0,Afternoon,Pop up,Travel,1
+28,0,33363,Suburban,1,0,Afternoon,Pop up,Travel,1
+31,0,33418,Suburban,1,0,Afternoon,Pop up,Travel,1
+33,0,43853,Suburban,1,0,Afternoon,Pop up,Travel,1
+33,0,32585,Suburban,1,0,Afternoon,Pop up,Travel,1
+30,0,43048,Suburban,1,0,Afternoon,Pop up,Travel,1
+34,1,35121,Suburban,1,0,Afternoon,Pop up,Travel,1
+26,1,35685,Suburban,1,0,Afternoon,Pop up,Travel,1
+34,1,39013,Suburban,1,0,Afternoon,Pop up,Travel,1
+31,1,33803,Suburban,1,0,Afternoon,Pop up,Travel,1
+30,0,38377,Suburban,1,0,Afternoon,Pop up,Travel,1
+26,0,33275,Suburban,1,0,Afternoon,Pop up,Travel,1
+31,0,30199,Suburban,1,0,Afternoon,Pop up,Travel,1
+29,0,38199,Suburban,1,0,Afternoon,Pop up,Travel,1
+32,1,40824,Suburban,1,0,Afternoon,Pop up,Travel,1
+26,0,42802,Suburban,1,0,Afternoon,Pop up,Travel,1
+30,1,43157,Suburban,1,0,Afternoon,Pop up,Travel,1
+27,1,39514,Suburban,1,0,Afternoon,Pop up,Travel,1
+26,1,30497,Suburban,1,0,Afternoon,Pop up,Travel,1
+31,0,38618,Suburban,1,0,Afternoon,Pop up,Travel,1
+34,1,39208,Suburban,1,0,Afternoon,Pop up,Travel,1
+29,0,37359,Suburban,1,0,Afternoon,Pop up,Travel,1
+31,0,33325,Suburban,1,0,Afternoon,Pop up,Travel,1
+31,0,39502,Suburban,1,0,Afternoon,Pop up,Travel,1
+32,1,44851,Suburban,1,0,Afternoon,Pop up,Travel,1
+34,1,30904,Suburban,1,0,Afternoon,Pop up,Travel,1
+27,1,38800,Suburban,1,0,Afternoon,Pop up,Travel,1
+34,0,38243,Suburban,1,0,Afternoon,Pop up,Travel,1
+29,0,41450,Suburban,1,0,Afternoon,Pop up,Travel,1
+31,1,40237,Suburban,1,0,Afternoon,Pop up,Travel,1
+33,0,40441,Suburban,1,0,Afternoon,Pop up,Travel,1
+29,1,44683,Suburban,1,0,Afternoon,Pop up,Travel,1
+29,0,39765,Suburban,1,0,Afternoon,Pop up,Travel,1
+27,0,36914,Suburban,1,0,Afternoon,Pop up,Travel,1
+30,0,39983,Suburban,1,0,Afternoon,Pop up,Travel,1
+34,0,37443,Suburban,1,0,Afternoon,Pop up,Travel,1
+31,0,31640,Suburban,1,0,Afternoon,Pop up,Travel,1
+31,0,43242,Suburban,1,0,Afternoon,Pop up,Travel,1
+30,1,43321,Suburban,1,0,Afternoon,Pop up,Travel,1
+28,1,40176,Suburban,1,0,Afternoon,Pop up,Travel,1
+32,0,31756,Suburban,1,0,Afternoon,Pop up,Travel,1
+33,1,36286,Suburban,1,0,Afternoon,Pop up,Travel,1
+31,0,42028,Suburban,1,0,Afternoon,Pop up,Travel,1
+35,1,44255,Suburban,1,0,Afternoon,Pop up,Travel,1
+28,0,32122,Suburban,1,0,Afternoon,Pop up,Travel,1
+31,1,42039,Suburban,1,0,Afternoon,Pop up,Travel,1
+27,1,41799,Suburban,1,0,Afternoon,Pop up,Travel,1
+27,1,41331,Suburban,1,0,Afternoon,Pop up,Travel,1
+31,0,40980,Suburban,1,0,Afternoon,Pop up,Travel,1
+33,1,32572,Suburban,1,0,Afternoon,Pop up,Travel,1
+31,1,38370,Suburban,1,0,Afternoon,Pop up,Travel,1
+28,0,41233,Suburban,1,0,Afternoon,Pop up,Travel,1
+31,0,41022,Suburban,1,0,Afternoon,Pop up,Travel,1
+34,1,34385,Suburban,1,0,Afternoon,Pop up,Travel,1
+29,1,37455,Suburban,1,0,Afternoon,Pop up,Travel,1
+32,0,43113,Suburban,1,0,Afternoon,Pop up,Travel,1
+32,1,44254,Suburban,1,0,Afternoon,Pop up,Travel,1
+27,0,39447,Suburban,1,0,Afternoon,Pop up,Travel,1
+26,0,32878,Suburban,1,0,Afternoon,Pop up,Travel,1
+35,0,35729,Suburban,1,0,Afternoon,Pop up,Travel,1
+33,0,32468,Suburban,1,0,Afternoon,Pop up,Travel,1
+35,1,31787,Suburban,1,0,Afternoon,Pop up,Travel,1
+28,0,31495,Suburban,1,0,Afternoon,Pop up,Travel,1
+26,0,31141,Suburban,1,0,Afternoon,Pop up,Travel,1
+27,1,43230,Suburban,1,0,Afternoon,Pop up,Travel,1
+26,1,31741,Suburban,1,0,Afternoon,Pop up,Travel,1
+26,0,39592,Suburban,1,0,Afternoon,Pop up,Travel,1
+29,0,34989,Suburban,1,0,Afternoon,Pop up,Travel,1
+33,1,41273,Suburban,1,0,Afternoon,Pop up,Travel,1
+34,0,32179,Suburban,1,0,Afternoon,Pop up,Travel,1
+26,0,33275,Suburban,1,0,Afternoon,Pop up,Travel,1
+28,1,40864,Suburban,1,0,Afternoon,Pop up,Travel,1
+30,0,39629,Suburban,1,0,Afternoon,Pop up,Travel,1
+27,1,41290,Suburban,1,0,Afternoon,Pop up,Travel,1
+30,0,39934,Suburban,1,0,Afternoon,Pop up,Travel,1
+28,1,36127,Suburban,1,0,Afternoon,Pop up,Travel,1
+31,1,38231,Suburban,1,0,Afternoon,Pop up,Travel,1
+26,0,44652,Suburban,1,0,Afternoon,Pop up,Travel,1
+28,0,34072,Suburban,1,0,Afternoon,Pop up,Travel,1
+29,1,41780,Suburban,1,0,Afternoon,Pop up,Travel,1
+27,1,30575,Suburban,1,0,Afternoon,Pop up,Travel,1
+26,1,40468,Suburban,1,0,Afternoon,Pop up,Travel,1
+26,0,33867,Suburban,1,0,Afternoon,Pop up,Travel,1
+30,0,34783,Suburban,1,0,Afternoon,Pop up,Travel,1
+31,0,40934,Suburban,1,0,Afternoon,Pop up,Travel,1
+32,1,35969,Suburban,1,0,Afternoon,Pop up,Travel,1
+27,1,39425,Suburban,1,0,Afternoon,Pop up,Travel,1
+27,1,42423,Suburban,1,0,Afternoon,Pop up,Travel,1
+31,1,35810,Suburban,1,0,Afternoon,Pop up,Travel,1
+33,1,40060,Suburban,1,0,Afternoon,Pop up,Travel,1
+28,1,40205,Suburban,1,0,Afternoon,Pop up,Travel,1
+32,0,30027,Suburban,1,0,Afternoon,Pop up,Travel,1
+33,0,38762,Suburban,1,0,Afternoon,Pop up,Travel,1
+34,0,32361,Suburban,1,0,Afternoon,Pop up,Travel,1
+26,0,32157,Suburban,1,0,Afternoon,Pop up,Travel,1
+34,1,35511,Suburban,1,0,Afternoon,Pop up,Travel,1
+31,1,37300,Suburban,1,0,Afternoon,Pop up,Travel,1
+33,1,36792,Suburban,1,0,Afternoon,Pop up,Travel,1
+27,1,40042,Suburban,1,0,Afternoon,Pop up,Travel,1
+27,0,36814,Suburban,1,0,Afternoon,Pop up,Travel,1
+27,0,34441,Suburban,1,0,Afternoon,Pop up,Travel,1
+29,1,43848,Suburban,1,0,Afternoon,Pop up,Travel,1
+34,1,41902,Suburban,1,0,Afternoon,Pop up,Travel,1
+33,1,36471,Suburban,1,0,Afternoon,Pop up,Travel,1
+29,0,30541,Suburban,1,0,Afternoon,Pop up,Travel,1
+37,1,49690,Suburban,0,1,Midnight,Banner,Finance,1
+39,1,56028,Suburban,0,0,Midnight,Banner,Finance,1
+40,0,46045,Rural,0,1,Midnight,Banner,Finance,1
+42,1,58333,Rural,0,1,Midnight,Banner,Finance,1
+38,1,52081,Rural,0,0,Midnight,Banner,Finance,1
+45,0,50725,Rural,0,0,Midnight,Push notif,Finance,1
+50,1,52250,Rural,0,0,Midnight,Banner,Finance,1
+43,0,45555,Rural,0,1,Midnight,Push notif,Finance,1
+47,0,53104,Rural,0,0,Midnight,Banner,Finance,1
+40,1,53930,Suburban,0,0,Midnight,Banner,Finance,1
+38,0,56060,Rural,0,1,Midnight,Push notif,Finance,1
+46,0,45341,Rural,0,0,Midnight,Push notif,Finance,1
+41,0,51466,Suburban,0,1,Midnight,Push notif,Finance,1
+43,0,53197,Rural,0,1,Midnight,Push notif,Finance,1
+47,0,46108,Suburban,0,0,Midnight,Banner,Finance,1
+39,1,59380,Rural,0,1,Midnight,Banner,Finance,1
+45,0,53037,Rural,0,0,Midnight,Push notif,Finance,1
+48,0,46721,Rural,0,1,Midnight,Push notif,Finance,1
+46,0,48091,Rural,0,1,Midnight,Banner,Finance,1
+36,1,53117,Suburban,0,0,Midnight,Banner,Finance,1
+47,1,47041,Suburban,0,1,Midnight,Push notif,Finance,1
+42,0,52980,Rural,0,0,Midnight,Push notif,Finance,1
+50,1,57831,Suburban,0,0,Midnight,Banner,Finance,1
+40,0,55568,Rural,0,0,Midnight,Banner,Finance,1
+37,1,47146,Suburban,0,0,Midnight,Push notif,Finance,1
+38,1,50145,Suburban,0,0,Midnight,Banner,Finance,1
+39,1,52019,Rural,0,0,Midnight,Push notif,Finance,1
+42,0,58928,Suburban,0,0,Midnight,Push notif,Finance,1
+50,1,51374,Rural,0,0,Midnight,Banner,Finance,1
+42,1,51799,Suburban,0,1,Midnight,Push notif,Finance,1
+45,0,57529,Rural,0,1,Midnight,Push notif,Finance,1
+41,1,54985,Suburban,0,1,Midnight,Push notif,Finance,1
+48,1,47529,Rural,0,1,Midnight,Banner,Finance,1
+48,0,52476,Suburban,0,0,Midnight,Push notif,Finance,1
+41,0,47465,Suburban,0,1,Midnight,Banner,Finance,1
+41,1,46370,Rural,0,0,Midnight,Push notif,Finance,1
+45,0,51462,Rural,0,1,Midnight,Banner,Finance,1
+47,1,45360,Suburban,0,1,Midnight,Push notif,Finance,1
+39,0,59979,Rural,0,1,Midnight,Banner,Finance,1
+45,1,50908,Suburban,0,0,Midnight,Banner,Finance,1
+42,0,49178,Suburban,0,0,Midnight,Push notif,Finance,1
+39,1,59937,Rural,0,0,Midnight,Banner,Finance,1
+49,0,49039,Suburban,0,1,Midnight,Banner,Finance,1
+46,0,46822,Rural,0,1,Midnight,Push notif,Finance,1
+47,0,55392,Suburban,0,1,Midnight,Banner,Finance,1
+45,0,59575,Suburban,0,0,Midnight,Banner,Finance,1
+42,0,55173,Rural,0,0,Midnight,Banner,Finance,1
+42,0,55236,Suburban,0,0,Midnight,Push notif,Finance,1
+47,0,55716,Rural,0,0,Midnight,Push notif,Finance,1
+41,0,57998,Rural,0,0,Midnight,Push notif,Finance,1
+50,0,53300,Suburban,0,1,Midnight,Banner,Finance,1
+44,1,59281,Suburban,0,1,Midnight,Banner,Finance,1
+39,0,47244,Rural,0,1,Midnight,Banner,Finance,1
+38,1,54165,Rural,0,0,Midnight,Banner,Finance,1
+42,1,49512,Suburban,0,1,Midnight,Push notif,Finance,1
+43,0,46309,Rural,0,0,Midnight,Banner,Finance,1
+49,1,52784,Suburban,0,0,Midnight,Push notif,Finance,1
+40,1,47510,Rural,0,0,Midnight,Push notif,Finance,1
+40,0,53737,Suburban,0,0,Midnight,Banner,Finance,1
+49,1,45986,Suburban,0,0,Midnight,Banner,Finance,1
+46,0,57502,Rural,0,0,Midnight,Push notif,Finance,1
+43,0,49511,Suburban,0,0,Midnight,Push notif,Finance,1
+36,0,50843,Rural,0,1,Midnight,Banner,Finance,1
+40,0,47639,Rural,0,1,Midnight,Push notif,Finance,1
+50,1,48212,Suburban,0,1,Midnight,Banner,Finance,1
+46,0,48397,Suburban,0,0,Midnight,Push notif,Finance,1
+43,1,48831,Rural,0,0,Midnight,Push notif,Finance,1
+41,0,55009,Suburban,0,0,Midnight,Push notif,Finance,1
+45,0,49943,Suburban,0,1,Midnight,Push notif,Finance,1
+42,0,56299,Suburban,0,0,Midnight,Push notif,Finance,1
+36,1,59247,Suburban,0,1,Midnight,Push notif,Finance,1
+36,1,45554,Suburban,0,0,Midnight,Banner,Finance,1
+43,0,46833,Rural,0,1,Midnight,Banner,Finance,1
+43,1,57361,Suburban,0,1,Midnight,Push notif,Finance,1
+43,0,47006,Rural,0,1,Midnight,Banner,Finance,1
+50,0,59661,Rural,0,0,Midnight,Banner,Finance,1
+38,0,49777,Rural,0,0,Midnight,Banner,Finance,1
+39,0,51341,Suburban,0,0,Midnight,Banner,Finance,1
+36,0,54283,Suburban,0,1,Midnight,Banner,Finance,1
+49,0,57559,Rural,0,1,Midnight,Banner,Finance,1
+41,1,56558,Suburban,0,1,Midnight,Banner,Finance,1
+41,1,54826,Suburban,0,0,Midnight,Banner,Finance,1
+41,0,46022,Rural,0,0,Midnight,Push notif,Finance,1
+44,0,53417,Rural,0,1,Midnight,Banner,Finance,1
+47,1,56517,Rural,0,0,Midnight,Banner,Finance,1
+50,0,51638,Suburban,0,1,Midnight,Banner,Finance,1
+50,1,48119,Rural,0,0,Midnight,Banner,Finance,1
+50,1,51916,Rural,0,0,Midnight,Push notif,Finance,1
+44,1,46100,Suburban,0,1,Midnight,Push notif,Finance,1
+39,0,55083,Rural,0,1,Midnight,Push notif,Finance,1
+40,1,58125,Rural,0,1,Midnight,Push notif,Finance,1
+40,0,57745,Rural,0,0,Midnight,Banner,Finance,1
+36,1,53827,Suburban,0,0,Midnight,Push notif,Finance,1
+42,0,57529,Rural,0,0,Midnight,Push notif,Finance,1
+44,1,52719,Rural,0,0,Midnight,Banner,Finance,1
+42,1,52745,Suburban,0,0,Midnight,Push notif,Finance,1
+46,0,48462,Rural,0,1,Midnight,Banner,Finance,1
+44,1,47347,Suburban,0,1,Midnight,Banner,Finance,1
+39,0,46014,Suburban,0,0,Midnight,Push notif,Finance,1
+42,1,48968,Rural,0,1,Midnight,Banner,Finance,1
+49,0,57355,Rural,0,0,Midnight,Banner,Finance,1
+50,1,59522,Rural,0,1,Midnight,Banner,Finance,1
+37,0,53031,Suburban,0,1,Midnight,Push notif,Finance,1
+43,0,48653,Rural,0,0,Midnight,Push notif,Finance,1
+38,1,53034,Suburban,0,0,Midnight,Banner,Finance,1
+47,0,54192,Rural,0,1,Midnight,Banner,Finance,1
+49,1,58434,Suburban,0,0,Midnight,Push notif,Finance,1
+49,1,54110,Rural,0,1,Midnight,Banner,Finance,1
+46,0,55279,Rural,0,1,Midnight,Push notif,Finance,1
+36,0,52136,Rural,0,1,Midnight,Push notif,Finance,1
+37,0,51870,Suburban,0,0,Midnight,Banner,Finance,1
+49,0,46677,Suburban,0,0,Midnight,Banner,Finance,1
+36,0,52971,Rural,0,0,Midnight,Banner,Finance,1
+40,1,57576,Suburban,0,1,Midnight,Push notif,Finance,1
+38,0,47929,Rural,0,1,Midnight,Push notif,Finance,1
+50,0,54322,Rural,0,1,Midnight,Banner,Finance,1
+44,1,45081,Suburban,0,1,Midnight,Push notif,Finance,1
+50,0,46861,Rural,0,1,Midnight,Push notif,Finance,1
+45,1,45897,Rural,0,1,Midnight,Banner,Finance,1
+40,0,47073,Suburban,0,0,Midnight,Push notif,Finance,1
+47,1,48172,Rural,0,0,Midnight,Banner,Finance,1
+45,1,56434,Rural,0,0,Midnight,Push notif,Finance,1
+47,0,57122,Rural,0,1,Midnight,Banner,Finance,1
+37,0,58343,Rural,0,0,Midnight,Banner,Finance,1
+45,0,58782,Rural,0,0,Midnight,Push notif,Finance,1
+42,0,50051,Suburban,0,1,Midnight,Push notif,Finance,1
+38,1,50921,Suburban,0,1,Midnight,Push notif,Finance,1
+45,0,48216,Rural,0,1,Midnight,Banner,Finance,1
+42,1,48018,Suburban,0,1,Midnight,Push notif,Finance,1
+49,0,58538,Suburban,0,0,Midnight,Push notif,Finance,1
+45,0,53501,Rural,0,0,Midnight,Push notif,Finance,1
+45,1,52107,Rural,0,0,Midnight,Push notif,Finance,1
+43,0,57636,Rural,0,0,Midnight,Banner,Finance,1
+38,0,50368,Rural,0,1,Midnight,Push notif,Finance,1
+42,0,58416,Rural,0,1,Midnight,Push notif,Finance,1
+40,0,59650,Suburban,0,1,Midnight,Banner,Finance,1
+45,0,46718,Suburban,0,1,Midnight,Push notif,Finance,1
+48,1,53093,Rural,0,1,Midnight,Push notif,Finance,1
+39,0,46597,Suburban,0,1,Midnight,Banner,Finance,1
+38,0,59425,Suburban,0,0,Midnight,Push notif,Finance,1
+45,0,46037,Suburban,0,0,Midnight,Push notif,Finance,1
+42,0,49093,Rural,0,0,Midnight,Banner,Finance,1
+39,1,48964,Suburban,0,1,Midnight,Push notif,Finance,1
+37,1,45058,Suburban,0,1,Midnight,Banner,Finance,1
+40,0,52893,Suburban,0,0,Midnight,Push notif,Finance,1
+36,1,59296,Suburban,0,0,Midnight,Push notif,Finance,1
+49,1,45055,Rural,0,1,Midnight,Banner,Finance,1
+44,1,57379,Suburban,0,0,Midnight,Banner,Finance,1
+42,0,53132,Rural,0,1,Midnight,Push notif,Finance,1
+41,1,50409,Suburban,0,1,Midnight,Push notif,Finance,1
+36,1,50765,Suburban,0,0,Morning,Push notif,Travel,0
+31,1,30834,Suburban,1,1,Midnight,Pop up,Finance,0
+46,0,24803,Rural,1,0,Morning,Pop up,Sports,0
+29,0,28033,Suburban,1,1,Afternoon,Banner,Travel,0
+40,1,59816,Rural,1,1,Morning,Pop up,Fashion,0
+29,1,25034,Rural,1,0,Afternoon,Push notif,Fashion,0
+25,1,42345,Rural,1,1,Afternoon,Banner,Finance,0
+50,0,36463,Urban,1,1,Evening,Pop up,Finance,0
+29,0,14244,Suburban,1,1,Morning,Pop up,Finance,0
+37,1,55327,Urban,0,0,Evening,Push notif,Travel,0
+50,1,54032,Rural,0,1,Evening,Pop up,Finance,0
+25,1,18680,Rural,0,1,Evening,Push notif,Sports,0
+38,0,26551,Urban,1,0,Evening,Push notif,Sports,0
+26,1,54551,Urban,0,0,Morning,Banner,Fashion,0
+40,1,56854,Rural,0,0,Evening,Push notif,Travel,0
+34,1,41127,Suburban,0,1,Afternoon,Banner,Travel,0
+25,1,46651,Rural,0,1,Afternoon,Pop up,Sports,0
+37,1,35199,Urban,1,1,Afternoon,Push notif,Sports,0
+38,1,46461,Suburban,0,1,Morning,Pop up,Finance,0
+45,0,20259,Urban,0,0,Midnight,Pop up,Travel,0
+23,1,22273,Rural,0,0,Morning,Banner,Fashion,0
+30,1,14971,Rural,0,0,Midnight,Banner,Fashion,0
+39,1,38958,Urban,1,1,Morning,Pop up,Travel,0
+39,0,26207,Urban,0,0,Evening,Pop up,Finance,0
+27,1,49958,Rural,0,0,Afternoon,Pop up,Finance,0
+48,1,35090,Suburban,1,1,Evening,Pop up,Travel,0
+43,1,44683,Rural,0,0,Afternoon,Push notif,Finance,0
+36,0,36689,Urban,1,1,Morning,Banner,Finance,0
+24,1,43101,Rural,1,0,Morning,Push notif,Fashion,0
+19,1,35779,Urban,0,1,Morning,Banner,Finance,0
+40,0,22020,Rural,1,0,Midnight,Banner,Travel,0
+31,1,26425,Suburban,0,0,Afternoon,Pop up,Finance,0
+44,0,40529,Rural,0,0,Afternoon,Banner,Fashion,0
+37,1,17952,Urban,1,1,Morning,Pop up,Sports,0
+38,1,44686,Urban,0,1,Evening,Push notif,Travel,0
+42,0,15693,Rural,0,0,Morning,Push notif,Travel,0
+29,0,23409,Urban,1,1,Evening,Push notif,Finance,0
+19,1,47023,Rural,1,1,Midnight,Banner,Finance,0
+30,0,18112,Suburban,0,0,Afternoon,Push notif,Sports,0
+21,1,27792,Urban,1,1,Midnight,Banner,Fashion,0
+46,0,37258,Urban,0,1,Afternoon,Pop up,Travel,0
+37,0,16867,Rural,1,0,Morning,Push notif,Sports,0
+34,0,39874,Rural,0,0,Afternoon,Push notif,Travel,0
+30,1,32983,Rural,1,0,Evening,Pop up,Fashion,0
+35,0,56106,Suburban,0,0,Morning,Banner,Fashion,0
+45,0,31251,Rural,1,1,Afternoon,Push notif,Finance,0
+30,0,53253,Urban,1,0,Evening,Push notif,Sports,0
+49,1,27042,Rural,0,0,Morning,Push notif,Finance,0
+24,1,17722,Urban,0,1,Morning,Banner,Sports,0
+42,1,16593,Urban,0,1,Morning,Push notif,Finance,0
+20,1,51246,Suburban,1,1,Afternoon,Banner,Travel,0
+33,0,29812,Suburban,1,0,Evening,Pop up,Finance,0
+43,0,42103,Urban,1,1,Morning,Banner,Finance,0
+20,0,25658,Rural,0,0,Morning,Pop up,Travel,0
+44,1,21466,Urban,1,1,Evening,Push notif,Travel,0
+35,1,27134,Urban,0,1,Afternoon,Pop up,Travel,0
+25,0,54138,Rural,0,1,Afternoon,Banner,Finance,0
+36,0,51761,Rural,0,0,Evening,Pop up,Fashion,0
+26,1,23489,Rural,1,1,Midnight,Push notif,Finance,0
+18,1,13227,Rural,1,1,Evening,Pop up,Fashion,0
+48,1,14652,Suburban,1,1,Afternoon,Pop up,Finance,0
+35,0,58238,Urban,0,0,Morning,Push notif,Travel,0
+32,1,42291,Rural,1,1,Evening,Pop up,Sports,0
+45,0,38031,Urban,0,1,Morning,Pop up,Fashion,0
+40,0,47683,Urban,0,0,Midnight,Push notif,Finance,0
+41,0,53359,Suburban,0,1,Evening,Pop up,Finance,0
+48,0,42486,Suburban,1,0,Afternoon,Banner,Finance,0
+46,1,42122,Urban,0,1,Evening,Banner,Fashion,0
+40,1,45989,Urban,1,1,Midnight,Push notif,Travel,0
+33,0,25457,Urban,0,0,Evening,Pop up,Fashion,0
+38,0,44080,Suburban,0,1,Evening,Push notif,Sports,0
+34,0,22732,Urban,1,1,Midnight,Push notif,Fashion,0
+26,0,42506,Suburban,1,0,Midnight,Push notif,Finance,0
+22,1,20924,Suburban,0,0,Morning,Banner,Travel,0
+42,1,25455,Rural,1,1,Afternoon,Pop up,Fashion,0
+23,0,38918,Urban,1,1,Morning,Pop up,Fashion,0
+50,1,18455,Rural,0,0,Afternoon,Push notif,Finance,0
+50,0,47748,Urban,0,1,Evening,Banner,Travel,0
+21,0,33251,Urban,1,1,Morning,Pop up,Sports,0
+44,1,22260,Rural,1,1,Afternoon,Banner,Sports,0
+32,0,44466,Rural,0,0,Afternoon,Pop up,Travel,0
+42,0,28583,Suburban,0,0,Afternoon,Push notif,Finance,0
+23,0,20763,Urban,0,0,Morning,Pop up,Travel,0
+40,1,42479,Suburban,0,0,Midnight,Banner,Fashion,0
+49,0,24061,Rural,1,0,Morning,Push notif,Sports,0
+43,0,17818,Suburban,1,0,Morning,Pop up,Travel,0
+32,0,30331,Suburban,1,1,Midnight,Pop up,Finance,0
+25,1,47075,Urban,1,1,Evening,Push notif,Fashion,0
+44,0,20407,Suburban,0,0,Afternoon,Pop up,Travel,0
+37,1,54835,Rural,1,0,Afternoon,Pop up,Travel,0
+39,0,57115,Suburban,0,1,Evening,Banner,Sports,0
+40,1,25579,Rural,0,1,Midnight,Pop up,Travel,0
+41,0,53132,Suburban,1,0,Morning,Push notif,Travel,0
+31,1,29582,Suburban,0,1,Morning,Pop up,Finance,0
+37,0,28425,Urban,0,0,Evening,Banner,Travel,0
+48,0,39130,Suburban,1,0,Midnight,Push notif,Sports,0
+19,1,13556,Rural,1,0,Afternoon,Pop up,Fashion,0
+42,0,13754,Suburban,0,1,Evening,Banner,Fashion,0
+49,0,44644,Suburban,1,1,Evening,Push notif,Fashion,0
+41,0,57036,Suburban,0,0,Evening,Banner,Travel,0
+41,0,41506,Rural,0,1,Morning,Banner,Finance,0
+26,1,50227,Suburban,0,0,Morning,Pop up,Travel,0
+24,1,59485,Urban,0,0,Morning,Push notif,Sports,0
+23,0,32533,Urban,0,1,Evening,Pop up,Finance,0
+19,1,40315,Rural,0,0,Midnight,Pop up,Sports,0
+50,0,47996,Suburban,1,1,Midnight,Banner,Fashion,0
+27,0,54136,Suburban,0,0,Morning,Pop up,Fashion,0
+50,1,49330,Rural,0,1,Afternoon,Pop up,Sports,0
+40,0,41452,Rural,1,0,Midnight,Push notif,Finance,0
+27,0,29691,Urban,0,0,Afternoon,Push notif,Sports,0
+28,1,42489,Suburban,1,0,Afternoon,Banner,Finance,0
+42,0,41528,Suburban,1,0,Midnight,Push notif,Travel,0
+35,1,56529,Rural,0,0,Midnight,Pop up,Sports,0
+43,1,27749,Urban,1,0,Morning,Pop up,Finance,0
+32,0,43386,Suburban,1,0,Midnight,Pop up,Fashion,0
+41,0,36311,Rural,0,1,Morning,Pop up,Travel,0
+19,1,58239,Rural,0,1,Morning,Push notif,Finance,0
+33,0,55587,Suburban,1,1,Afternoon,Banner,Finance,0
+33,0,39414,Rural,1,0,Afternoon,Push notif,Travel,0
+45,0,15256,Rural,1,0,Afternoon,Pop up,Fashion,0
+46,0,58033,Suburban,0,0,Evening,Pop up,Finance,0
+31,1,31577,Urban,1,0,Evening,Push notif,Travel,0
+24,1,38438,Suburban,1,1,Midnight,Pop up,Travel,0
+42,1,57328,Rural,1,1,Evening,Push notif,Finance,0
+35,1,46050,Suburban,1,0,Evening,Pop up,Fashion,0
+20,0,32345,Rural,0,0,Afternoon,Pop up,Sports,0
+48,0,52613,Rural,0,0,Evening,Pop up,Travel,0
+44,1,22532,Urban,0,1,Afternoon,Pop up,Finance,0
+28,1,16041,Suburban,0,0,Morning,Pop up,Travel,0
+35,0,24747,Suburban,1,0,Afternoon,Banner,Travel,0
+35,1,50195,Urban,1,0,Evening,Pop up,Sports,0
+44,0,51873,Rural,0,1,Midnight,Banner,Travel,0
+28,0,51666,Suburban,0,1,Morning,Push notif,Fashion,0
+21,0,20101,Suburban,1,0,Midnight,Pop up,Fashion,0
+42,0,59973,Rural,1,1,Afternoon,Pop up,Finance,0
+23,0,42564,Urban,1,1,Midnight,Banner,Fashion,0
+50,1,17672,Rural,1,1,Afternoon,Pop up,Sports,0
+39,1,17493,Urban,0,1,Morning,Banner,Fashion,0
+43,0,52654,Suburban,0,0,Afternoon,Pop up,Finance,0
+24,1,39577,Urban,0,1,Evening,Pop up,Sports,0
+23,0,36103,Urban,0,0,Evening,Pop up,Sports,0
+23,0,30615,Urban,1,1,Evening,Push notif,Finance,0
+41,1,55975,Urban,0,1,Evening,Pop up,Sports,0
+22,0,18367,Rural,1,0,Morning,Push notif,Travel,0
+46,1,53684,Rural,0,0,Morning,Push notif,Travel,0
+20,1,23339,Rural,1,1,Midnight,Banner,Travel,0
+30,1,31758,Suburban,0,0,Evening,Banner,Fashion,0
+47,0,26150,Rural,1,0,Afternoon,Banner,Fashion,0
+41,1,44150,Suburban,1,0,Midnight,Banner,Finance,0
+24,0,16225,Suburban,1,0,Midnight,Pop up,Sports,0
+45,1,19522,Urban,0,1,Evening,Banner,Travel,0
+23,0,42325,Urban,1,1,Afternoon,Pop up,Finance,0
+39,0,35225,Urban,0,1,Afternoon,Push notif,Travel,0
+32,1,42401,Suburban,1,0,Midnight,Banner,Fashion,0
+20,1,31613,Suburban,0,1,Morning,Pop up,Travel,0
+41,0,27608,Rural,1,1,Evening,Banner,Sports,0
+40,0,40469,Suburban,0,0,Evening,Pop up,Travel,0
+32,1,47658,Rural,1,0,Afternoon,Pop up,Travel,0
+49,1,23171,Rural,0,1,Evening,Pop up,Sports,0
+47,0,38094,Urban,0,1,Midnight,Push notif,Travel,0
+18,1,22151,Rural,0,0,Midnight,Pop up,Finance,0
+42,0,24307,Suburban,1,1,Morning,Banner,Fashion,0
+41,0,42560,Suburban,0,0,Midnight,Pop up,Travel,0
+42,1,52863,Urban,0,0,Evening,Banner,Fashion,0
+26,0,58706,Suburban,1,1,Morning,Banner,Sports,0
+33,0,30163,Rural,0,0,Midnight,Push notif,Fashion,0
+45,1,52112,Urban,1,0,Midnight,Pop up,Finance,0
+42,1,53849,Urban,1,0,Evening,Push notif,Sports,0
+37,0,46227,Urban,1,0,Afternoon,Push notif,Finance,0
+44,1,59147,Rural,0,1,Evening,Push notif,Fashion,0
+38,0,57357,Urban,0,1,Evening,Push notif,Sports,0
+24,1,37536,Suburban,1,0,Evening,Pop up,Sports,0
+44,0,52797,Urban,1,1,Midnight,Pop up,Sports,0
+32,1,58311,Suburban,0,0,Afternoon,Pop up,Fashion,0
+49,1,53042,Suburban,1,0,Morning,Pop up,Sports,0
+46,0,37556,Urban,1,1,Morning,Banner,Travel,0
+25,0,52265,Rural,0,1,Afternoon,Banner,Finance,0
+22,1,22599,Urban,0,0,Midnight,Banner,Travel,0
+19,0,22465,Suburban,1,0,Evening,Push notif,Finance,0
+35,1,15570,Suburban,0,1,Evening,Push notif,Sports,0
+20,0,26391,Suburban,1,0,Morning,Push notif,Sports,0
+19,1,30430,Urban,0,1,Midnight,Push notif,Fashion,0
+31,0,39802,Rural,1,1,Evening,Push notif,Sports,0
+21,0,44758,Suburban,0,1,Afternoon,Pop up,Travel,0
+37,1,22009,Suburban,0,1,Afternoon,Pop up,Sports,0
+19,0,28138,Urban,0,0,Morning,Pop up,Finance,0
+26,0,34178,Suburban,1,1,Midnight,Pop up,Fashion,0
+37,0,27981,Suburban,0,0,Evening,Push notif,Travel,0
+18,1,41094,Suburban,0,1,Evening,Pop up,Sports,0
+22,0,22497,Suburban,0,0,Afternoon,Pop up,Sports,0
+37,1,47378,Suburban,1,0,Evening,Pop up,Finance,0
+36,0,55069,Suburban,0,0,Evening,Pop up,Travel,0
+32,1,28332,Suburban,1,0,Midnight,Pop up,Travel,0
+25,1,42978,Rural,0,0,Morning,Pop up,Finance,0
+37,1,13093,Rural,1,0,Morning,Banner,Travel,0
+34,0,31846,Urban,0,1,Afternoon,Banner,Travel,0
+28,1,44932,Suburban,1,0,Midnight,Push notif,Fashion,0
+35,0,18980,Suburban,0,0,Midnight,Banner,Finance,0
+42,0,19656,Rural,0,1,Morning,Banner,Travel,0
+34,0,42362,Suburban,0,0,Morning,Pop up,Fashion,0
+43,0,26039,Rural,1,0,Evening,Banner,Sports,0
+21,0,44149,Urban,1,1,Midnight,Push notif,Fashion,0
+18,0,29187,Urban,1,0,Evening,Pop up,Travel,0
+23,1,37363,Rural,0,1,Evening,Pop up,Finance,0
+25,0,38265,Suburban,0,0,Morning,Push notif,Travel,0
+45,0,53939,Rural,0,1,Morning,Push notif,Fashion,0
+42,1,57053,Rural,0,1,Afternoon,Push notif,Finance,0
+47,0,15349,Rural,0,1,Afternoon,Banner,Finance,0
+40,0,43348,Suburban,1,0,Morning,Push notif,Finance,0
+49,1,34862,Rural,1,0,Evening,Banner,Sports,0
+23,0,17456,Rural,1,1,Midnight,Banner,Finance,0
+50,0,54570,Rural,1,0,Afternoon,Banner,Finance,0
+19,0,25045,Urban,0,1,Morning,Push notif,Fashion,0
+25,0,41379,Suburban,0,0,Morning,Pop up,Sports,0
+43,1,51872,Suburban,1,0,Afternoon,Push notif,Travel,0
+50,1,39030,Rural,0,1,Afternoon,Push notif,Travel,0
+18,0,39853,Rural,1,1,Morning,Push notif,Travel,0
+28,1,52065,Suburban,0,0,Evening,Push notif,Travel,0
+30,1,32910,Urban,0,0,Morning,Pop up,Finance,0
+47,1,54070,Rural,1,0,Morning,Push notif,Sports,0
+26,0,55115,Suburban,0,0,Afternoon,Push notif,Fashion,0
+29,1,42674,Suburban,1,1,Morning,Banner,Finance,0
+27,0,54041,Urban,1,1,Evening,Push notif,Fashion,0
+27,1,24205,Rural,1,0,Evening,Banner,Finance,0
+38,0,24528,Rural,1,1,Afternoon,Banner,Fashion,0
+31,0,25841,Urban,1,1,Midnight,Push notif,Fashion,0
+36,1,43381,Suburban,0,0,Morning,Banner,Fashion,0
+33,1,16842,Urban,1,1,Midnight,Banner,Travel,0
+47,0,16991,Suburban,0,0,Afternoon,Pop up,Fashion,0
+40,0,38543,Urban,0,1,Evening,Push notif,Travel,0
+44,0,42565,Rural,1,0,Morning,Push notif,Sports,0
+20,0,24056,Rural,1,0,Morning,Pop up,Sports,0
+21,0,52078,Urban,1,0,Afternoon,Push notif,Travel,0
+31,0,21052,Suburban,1,0,Afternoon,Banner,Sports,0
+18,1,56411,Rural,1,1,Afternoon,Banner,Fashion,0
+43,0,18993,Suburban,0,1,Afternoon,Banner,Finance,0
+43,0,27306,Urban,1,1,Afternoon,Push notif,Sports,0
+44,1,23894,Rural,1,0,Afternoon,Push notif,Travel,0
+45,0,45846,Rural,0,0,Midnight,Banner,Fashion,0
+38,0,49456,Suburban,1,0,Midnight,Banner,Travel,0
+38,0,56695,Rural,0,1,Morning,Pop up,Sports,0
+43,1,40382,Rural,1,0,Evening,Pop up,Fashion,0
+26,0,25211,Urban,0,0,Midnight,Pop up,Finance,0
+22,1,27020,Suburban,0,0,Midnight,Banner,Travel,0
+47,0,18833,Rural,1,0,Evening,Pop up,Fashion,0
+36,1,33539,Rural,1,0,Morning,Push notif,Fashion,0
+41,0,14717,Urban,1,1,Afternoon,Push notif,Sports,0
+23,0,24523,Suburban,0,0,Evening,Push notif,Fashion,0
+31,1,58040,Rural,0,0,Morning,Push notif,Finance,0
+27,1,36672,Rural,1,1,Evening,Push notif,Sports,0
+26,0,24439,Rural,0,0,Morning,Push notif,Travel,0
+26,1,30939,Rural,1,1,Morning,Pop up,Sports,0
+44,0,54802,Suburban,1,1,Morning,Banner,Fashion,0
+45,0,47575,Suburban,1,0,Afternoon,Banner,Finance,0
+26,1,38831,Suburban,0,0,Morning,Banner,Fashion,0
+40,0,45604,Suburban,1,0,Afternoon,Banner,Fashion,0
+38,0,16988,Rural,0,1,Morning,Pop up,Travel,0
+18,1,42219,Rural,1,1,Afternoon,Pop up,Fashion,0
+32,1,23281,Suburban,0,1,Afternoon,Banner,Fashion,0
+22,0,26371,Urban,0,1,Morning,Pop up,Sports,0
+41,0,41910,Rural,0,1,Morning,Pop up,Travel,0
+44,0,18936,Urban,0,1,Midnight,Banner,Sports,0
+37,1,51762,Urban,1,1,Afternoon,Pop up,Travel,0
+46,0,37659,Urban,1,0,Evening,Push notif,Sports,0
+47,1,40469,Suburban,1,0,Midnight,Push notif,Sports,0
+45,1,52418,Rural,1,1,Morning,Pop up,Sports,0
+50,1,52108,Suburban,0,0,Midnight,Pop up,Travel,0
+30,0,26405,Rural,0,0,Morning,Pop up,Finance,0
+26,1,17247,Rural,0,0,Afternoon,Pop up,Finance,0
+38,0,42427,Suburban,1,1,Evening,Pop up,Sports,0
+38,0,14944,Urban,1,0,Midnight,Banner,Travel,0
+22,0,28762,Urban,1,0,Morning,Pop up,Finance,0
+18,0,48434,Rural,1,0,Afternoon,Pop up,Fashion,0
+48,0,17918,Suburban,1,1,Afternoon,Push notif,Finance,0
+24,1,19668,Suburban,1,1,Midnight,Banner,Sports,0
+47,0,13855,Urban,1,1,Evening,Banner,Travel,0
+27,1,34028,Rural,0,0,Morning,Pop up,Sports,0
+18,0,38222,Urban,0,1,Evening,Banner,Finance,0
+38,1,31329,Rural,0,1,Morning,Banner,Fashion,0
+21,1,19192,Rural,0,0,Morning,Banner,Finance,0
+44,0,48790,Rural,1,1,Midnight,Banner,Sports,0
+31,0,29190,Urban,0,0,Midnight,Push notif,Sports,0
+24,1,47600,Suburban,1,1,Evening,Banner,Finance,0
+18,1,38231,Rural,1,0,Midnight,Push notif,Sports,0
+36,0,45845,Rural,0,0,Evening,Banner,Travel,0
+19,0,26651,Rural,1,0,Morning,Pop up,Fashion,0
+23,1,39359,Rural,0,1,Morning,Push notif,Travel,0
+22,1,31311,Rural,0,0,Evening,Banner,Finance,0
+46,1,15832,Urban,0,0,Morning,Push notif,Finance,0
+25,1,37140,Suburban,0,1,Morning,Pop up,Sports,0
+27,1,38725,Suburban,1,1,Afternoon,Pop up,Sports,0
+41,1,15520,Urban,1,1,Evening,Pop up,Finance,0
+44,1,59868,Urban,1,1,Afternoon,Push notif,Sports,0
+25,0,14770,Suburban,0,0,Afternoon,Push notif,Travel,0
+40,0,18649,Rural,1,1,Evening,Pop up,Travel,0
+21,1,45206,Rural,1,0,Evening,Pop up,Sports,0
+44,0,24499,Rural,1,1,Afternoon,Pop up,Travel,0
+36,0,16209,Rural,0,1,Afternoon,Pop up,Travel,0
+22,0,27398,Urban,0,1,Evening,Pop up,Fashion,0
+25,1,22622,Urban,0,1,Afternoon,Push notif,Sports,0
+25,0,42166,Urban,1,1,Morning,Pop up,Sports,0
+45,1,31003,Suburban,1,0,Morning,Pop up,Fashion,0
+41,0,52502,Suburban,1,0,Evening,Push notif,Sports,0
+43,1,53813,Suburban,1,1,Evening,Pop up,Sports,0
+25,1,35502,Urban,0,1,Afternoon,Banner,Sports,0
+48,0,31071,Suburban,0,0,Morning,Banner,Travel,0
+47,1,51888,Urban,1,0,Evening,Banner,Fashion,0
+29,1,57023,Suburban,0,0,Afternoon,Push notif,Sports,0
+24,1,57101,Suburban,0,0,Afternoon,Pop up,Finance,0
+43,1,56882,Suburban,1,1,Morning,Pop up,Travel,0
+24,0,27094,Rural,0,1,Morning,Banner,Travel,0
+29,1,59978,Rural,1,1,Afternoon,Pop up,Finance,0
+33,1,54139,Rural,1,1,Evening,Push notif,Sports,0
+26,0,55857,Rural,0,1,Midnight,Banner,Travel,0
+48,0,39546,Urban,1,0,Afternoon,Push notif,Sports,0
+30,1,30042,Rural,0,0,Morning,Push notif,Finance,0
+21,1,53451,Urban,1,0,Midnight,Banner,Fashion,0
+40,0,39665,Suburban,1,0,Evening,Pop up,Fashion,0
+47,0,27998,Suburban,0,0,Evening,Banner,Travel,0
+36,1,37672,Suburban,1,0,Evening,Push notif,Fashion,0
+50,0,34357,Urban,1,0,Evening,Push notif,Fashion,0
+43,1,17547,Suburban,1,1,Afternoon,Pop up,Finance,0
+20,0,19260,Rural,1,1,Afternoon,Push notif,Finance,0
+25,1,21766,Rural,0,0,Morning,Banner,Travel,0
+43,0,37728,Urban,0,1,Afternoon,Push notif,Finance,0
+41,1,40362,Suburban,1,0,Afternoon,Banner,Travel,0
+33,1,15380,Rural,0,1,Afternoon,Banner,Finance,0
+22,1,32331,Rural,0,1,Midnight,Push notif,Fashion,0
+38,1,39358,Suburban,0,1,Afternoon,Banner,Finance,0
+35,1,29946,Suburban,1,0,Afternoon,Banner,Finance,0
+42,0,47432,Urban,0,0,Afternoon,Pop up,Travel,0
+24,1,38473,Suburban,0,0,Afternoon,Push notif,Travel,0
+20,1,23855,Suburban,0,1,Evening,Pop up,Travel,0
+40,0,19427,Urban,0,1,Midnight,Pop up,Sports,0
+18,1,50008,Rural,1,1,Morning,Push notif,Finance,0
+22,0,23032,Urban,0,1,Morning,Push notif,Travel,0
+38,0,53825,Urban,1,0,Morning,Pop up,Travel,0
+47,0,44364,Rural,0,1,Morning,Pop up,Sports,0
+25,0,44478,Suburban,1,0,Midnight,Pop up,Finance,0
+37,0,29168,Urban,1,1,Midnight,Push notif,Fashion,0
+32,1,53130,Suburban,0,0,Afternoon,Banner,Finance,0
+26,1,43176,Urban,0,0,Morning,Push notif,Travel,0
+35,1,50930,Urban,0,0,Morning,Pop up,Finance,0
+23,0,26966,Rural,1,0,Afternoon,Pop up,Sports,0
+41,0,29559,Urban,1,0,Morning,Banner,Finance,0
+31,0,34943,Rural,1,1,Afternoon,Banner,Fashion,0
+39,1,32605,Rural,0,0,Evening,Push notif,Travel,0
+23,1,36556,Rural,0,0,Morning,Banner,Fashion,0
+28,0,26179,Urban,1,0,Evening,Pop up,Travel,0
+28,1,13676,Urban,1,0,Afternoon,Banner,Travel,0
+38,1,51468,Urban,1,0,Evening,Pop up,Travel,0
+23,0,45432,Rural,0,1,Morning,Pop up,Finance,0
+38,1,53103,Suburban,0,0,Midnight,Push notif,Finance,0
+35,1,15258,Rural,0,1,Morning,Pop up,Sports,0
+49,0,55348,Rural,0,1,Morning,Pop up,Fashion,0
+45,1,40540,Urban,0,0,Evening,Banner,Travel,0
+25,1,40325,Rural,0,0,Midnight,Banner,Travel,0
+42,0,57657,Urban,0,0,Afternoon,Banner,Sports,0
+28,1,51867,Suburban,0,1,Evening,Pop up,Sports,0
+49,1,26303,Urban,1,0,Evening,Pop up,Travel,0
+25,1,18642,Urban,0,0,Morning,Push notif,Finance,0
+33,0,40598,Suburban,0,1,Evening,Push notif,Finance,0
+50,1,58117,Rural,1,0,Morning,Push notif,Fashion,0
+32,0,51095,Suburban,0,1,Evening,Pop up,Sports,0
+38,0,57544,Suburban,1,1,Evening,Pop up,Finance,0
+21,1,42700,Rural,1,0,Morning,Banner,Fashion,0
+45,1,35740,Urban,1,1,Midnight,Pop up,Fashion,0
+19,1,29699,Urban,0,0,Morning,Pop up,Finance,0
+42,1,34259,Suburban,1,1,Midnight,Banner,Sports,0
+22,0,33085,Rural,1,0,Evening,Pop up,Sports,0
+29,1,20763,Rural,0,0,Afternoon,Push notif,Finance,0
+28,0,32091,Urban,0,0,Morning,Banner,Fashion,0
+24,0,42958,Urban,0,1,Midnight,Pop up,Sports,0
+38,0,37764,Suburban,1,1,Evening,Banner,Travel,0
+30,0,24181,Urban,0,1,Morning,Pop up,Fashion,0
+18,1,43307,Urban,1,1,Afternoon,Banner,Fashion,0
+20,0,28333,Urban,0,1,Evening,Pop up,Sports,0
+38,1,30528,Urban,0,1,Morning,Pop up,Finance,0
+24,1,33888,Urban,1,1,Evening,Pop up,Finance,0
+49,0,48430,Suburban,1,1,Afternoon,Pop up,Fashion,0
+43,0,33543,Suburban,0,0,Afternoon,Pop up,Travel,0
+34,1,21785,Urban,0,0,Afternoon,Push notif,Sports,0
+22,1,53156,Suburban,0,1,Evening,Pop up,Finance,0
+18,1,33589,Rural,1,1,Evening,Banner,Finance,0
+45,0,42664,Rural,0,1,Evening,Pop up,Finance,0
+25,0,14672,Rural,1,1,Morning,Banner,Sports,0
+34,1,22405,Rural,0,0,Morning,Pop up,Travel,0
+24,0,53554,Rural,0,1,Evening,Banner,Sports,0
+39,1,31486,Urban,1,1,Afternoon,Push notif,Fashion,0
+50,1,22914,Rural,0,1,Morning,Pop up,Sports,0
+50,0,18542,Suburban,1,1,Morning,Banner,Fashion,0
+19,1,31818,Rural,1,1,Afternoon,Push notif,Sports,0
+48,0,31603,Suburban,0,0,Evening,Banner,Travel,0
+29,0,37230,Urban,0,0,Midnight,Push notif,Fashion,0
+34,0,53606,Urban,0,0,Midnight,Pop up,Travel,0
+36,0,15192,Urban,1,0,Morning,Push notif,Travel,0
+18,0,51362,Urban,1,0,Midnight,Pop up,Sports,0
+42,0,49643,Rural,0,1,Midnight,Banner,Sports,0
+27,1,49966,Rural,0,1,Evening,Push notif,Sports,0
+18,0,18676,Rural,1,0,Evening,Banner,Travel,0
+40,1,19275,Urban,1,0,Evening,Pop up,Finance,0
+18,1,57864,Suburban,1,0,Evening,Pop up,Finance,0
+23,1,16707,Suburban,1,1,Afternoon,Pop up,Travel,0
+33,0,54930,Rural,1,0,Midnight,Push notif,Travel,0
+48,0,51094,Rural,1,1,Morning,Pop up,Fashion,0
+27,0,32862,Suburban,1,1,Morning,Pop up,Finance,0
+39,1,18256,Rural,1,1,Afternoon,Pop up,Fashion,0
+40,0,40873,Urban,1,0,Morning,Pop up,Finance,0
+41,0,21680,Suburban,1,0,Afternoon,Pop up,Fashion,0
+30,1,48017,Suburban,1,1,Morning,Pop up,Finance,0
+42,0,57648,Rural,1,1,Midnight,Push notif,Fashion,0
+19,1,53920,Rural,0,0,Evening,Pop up,Travel,0
+46,1,52348,Suburban,1,1,Morning,Pop up,Finance,0
+45,0,56625,Suburban,0,1,Evening,Banner,Finance,0
+30,1,36195,Urban,0,0,Afternoon,Banner,Travel,0
+23,0,17988,Suburban,1,0,Afternoon,Banner,Travel,0
+30,1,45248,Rural,0,0,Morning,Banner,Fashion,0
+34,0,33236,Urban,0,0,Morning,Banner,Finance,0
+27,0,15609,Suburban,0,0,Morning,Push notif,Fashion,0
+30,0,21859,Urban,1,1,Midnight,Banner,Finance,0
+27,0,15814,Suburban,1,0,Morning,Pop up,Sports,0
+24,0,39137,Rural,1,1,Evening,Pop up,Travel,0
+24,0,16885,Urban,1,0,Midnight,Banner,Travel,0
+30,0,25528,Suburban,1,1,Midnight,Banner,Finance,0
+49,0,15145,Urban,1,0,Evening,Pop up,Sports,0
+43,0,40403,Rural,0,1,Morning,Pop up,Sports,0
+22,0,20529,Suburban,1,1,Morning,Pop up,Sports,0
+18,0,47046,Suburban,0,0,Evening,Push notif,Fashion,0
+42,1,35561,Rural,0,0,Midnight,Push notif,Fashion,0
+28,1,58261,Suburban,0,0,Midnight,Banner,Finance,0
+22,1,31894,Urban,1,1,Afternoon,Banner,Travel,0
+42,1,18883,Suburban,1,0,Morning,Banner,Fashion,0
+37,0,15396,Urban,0,1,Morning,Banner,Travel,0
+25,1,22012,Rural,0,1,Morning,Push notif,Sports,0
+18,0,51582,Rural,0,1,Evening,Pop up,Fashion,0
+50,0,20109,Rural,0,1,Midnight,Pop up,Finance,0
+32,0,18370,Suburban,0,1,Midnight,Pop up,Travel,0
+19,1,36548,Urban,1,1,Midnight,Banner,Sports,0
+21,0,27015,Suburban,1,0,Afternoon,Pop up,Travel,0
+23,0,42673,Urban,0,1,Evening,Push notif,Sports,0
+23,0,59627,Urban,1,1,Midnight,Pop up,Finance,0
+33,1,29412,Rural,1,1,Evening,Banner,Fashion,0
+32,1,28386,Urban,0,1,Evening,Banner,Sports,0
+19,0,40767,Rural,0,1,Morning,Push notif,Travel,0
+50,1,46781,Suburban,1,0,Evening,Pop up,Travel,0
+34,1,50599,Urban,1,0,Evening,Push notif,Finance,0
+29,1,50296,Urban,1,1,Morning,Push notif,Travel,0
+42,0,54680,Urban,0,1,Evening,Banner,Travel,0
+35,1,32988,Suburban,1,0,Morning,Banner,Sports,0
+18,0,25648,Suburban,0,0,Morning,Banner,Finance,0
+47,0,44433,Suburban,0,0,Afternoon,Push notif,Travel,0
+45,1,31680,Suburban,0,1,Midnight,Banner,Sports,0
+29,0,51224,Urban,1,0,Evening,Banner,Travel,0
+24,1,50242,Urban,1,0,Evening,Pop up,Finance,0
+35,0,43676,Rural,1,0,Evening,Push notif,Finance,0
+45,1,56342,Rural,1,0,Evening,Pop up,Fashion,0
+27,0,34575,Suburban,0,0,Afternoon,Banner,Sports,0
+49,0,56322,Urban,1,0,Evening,Push notif,Sports,0
+40,1,34977,Rural,0,0,Evening,Banner,Travel,0
+35,1,56267,Urban,1,1,Afternoon,Pop up,Sports,0
+45,1,13479,Rural,1,1,Midnight,Push notif,Sports,0
+25,0,40855,Suburban,0,1,Morning,Pop up,Travel,0
+37,0,47378,Suburban,1,0,Afternoon,Banner,Finance,0
+21,1,58523,Rural,0,0,Afternoon,Push notif,Sports,0
+39,0,45383,Rural,1,1,Midnight,Pop up,Fashion,0
+47,0,51608,Suburban,0,1,Evening,Push notif,Travel,0
+38,0,16388,Suburban,0,1,Evening,Banner,Sports,0
+19,0,29039,Rural,1,1,Evening,Push notif,Fashion,0
+27,1,55349,Suburban,0,1,Afternoon,Push notif,Travel,0
+19,1,54816,Suburban,0,0,Morning,Push notif,Travel,0
+33,0,32912,Suburban,0,0,Afternoon,Push notif,Fashion,0
+33,0,34019,Suburban,0,1,Afternoon,Push notif,Finance,0
+20,0,20634,Urban,0,0,Midnight,Push notif,Finance,0
+48,1,48343,Urban,0,1,Morning,Pop up,Sports,0
+36,0,24715,Urban,0,1,Morning,Push notif,Travel,0
+37,0,56829,Suburban,0,0,Afternoon,Push notif,Travel,0
+44,1,13260,Suburban,0,0,Midnight,Pop up,Fashion,0
+20,1,48876,Rural,0,0,Afternoon,Pop up,Sports,0
+20,0,49318,Urban,1,0,Evening,Pop up,Sports,0
+38,1,20011,Urban,0,0,Morning,Banner,Travel,0
+19,0,13007,Suburban,1,0,Morning,Pop up,Sports,0
+21,1,34822,Suburban,1,0,Midnight,Pop up,Sports,0
+45,1,20948,Urban,1,1,Evening,Push notif,Fashion,0
+37,1,28970,Urban,0,0,Evening,Banner,Travel,0
+38,1,38212,Suburban,0,0,Afternoon,Pop up,Sports,0
+19,1,16995,Urban,1,0,Afternoon,Banner,Sports,0
+38,1,16012,Urban,1,0,Evening,Pop up,Finance,0
+34,1,28449,Suburban,1,1,Evening,Push notif,Fashion,0
+36,1,39101,Urban,1,1,Evening,Pop up,Travel,0
+39,1,42730,Rural,0,1,Evening,Pop up,Sports,0
+24,0,42233,Rural,0,1,Afternoon,Push notif,Sports,0
+19,1,47303,Urban,0,0,Morning,Pop up,Finance,0
+38,0,59262,Rural,1,0,Afternoon,Pop up,Fashion,0
+28,1,55898,Suburban,1,1,Evening,Banner,Finance,0
+38,1,58366,Rural,0,1,Morning,Pop up,Fashion,0
+24,1,45056,Suburban,0,1,Morning,Pop up,Travel,0
+48,1,24171,Rural,0,1,Afternoon,Pop up,Fashion,0
+32,1,41328,Rural,1,1,Morning,Banner,Finance,0
+32,1,44029,Urban,1,0,Evening,Push notif,Finance,0
+34,0,55551,Urban,0,0,Afternoon,Push notif,Sports,0
+33,1,49474,Suburban,0,0,Midnight,Banner,Fashion,0
+25,0,38373,Urban,1,1,Evening,Pop up,Sports,0
+36,1,37883,Urban,0,1,Midnight,Pop up,Fashion,0
+47,1,33434,Rural,0,1,Afternoon,Push notif,Sports,0
+32,1,30971,Rural,1,0,Afternoon,Pop up,Fashion,0
+28,1,46831,Suburban,1,0,Midnight,Push notif,Finance,0
+42,0,17963,Urban,0,0,Afternoon,Pop up,Sports,0
+24,0,47458,Rural,0,1,Afternoon,Push notif,Sports,0
+21,0,37025,Suburban,0,1,Midnight,Banner,Finance,0
+27,1,18130,Rural,1,1,Evening,Push notif,Fashion,0
+19,0,42600,Suburban,1,0,Afternoon,Banner,Sports,0
+47,0,13488,Suburban,1,1,Evening,Push notif,Fashion,0
+27,0,50226,Urban,0,0,Midnight,Banner,Sports,0
+34,0,25596,Suburban,1,0,Morning,Banner,Fashion,0
+18,0,41870,Suburban,0,1,Afternoon,Pop up,Finance,0
+46,1,35739,Rural,1,0,Morning,Banner,Fashion,0
+25,1,37896,Rural,1,1,Morning,Banner,Finance,0
+43,0,57693,Suburban,0,0,Afternoon,Pop up,Finance,0
+33,0,43079,Rural,1,0,Morning,Push notif,Fashion,0
+43,1,13123,Rural,0,0,Evening,Push notif,Travel,0
+34,0,52082,Urban,1,1,Midnight,Pop up,Sports,0
+34,0,27559,Suburban,1,0,Midnight,Banner,Finance,0
+28,1,24259,Urban,1,1,Midnight,Pop up,Travel,0
+42,0,56697,Urban,0,0,Midnight,Pop up,Sports,0
+29,0,51327,Suburban,1,1,Afternoon,Push notif,Finance,0
+22,1,15638,Suburban,1,1,Afternoon,Banner,Finance,0
+29,0,33106,Urban,0,1,Midnight,Push notif,Travel,0
+38,1,32927,Suburban,1,0,Morning,Banner,Finance,0
+48,1,22558,Suburban,1,0,Afternoon,Push notif,Sports,0
+30,1,58036,Rural,0,1,Midnight,Banner,Fashion,0
+50,1,45228,Urban,1,1,Midnight,Banner,Sports,0
+32,0,27096,Urban,1,1,Evening,Push notif,Travel,0
+22,0,35977,Suburban,1,0,Evening,Push notif,Sports,0
+21,0,29206,Rural,0,1,Morning,Banner,Travel,0
+18,1,58987,Rural,0,1,Afternoon,Pop up,Sports,0
+27,0,34318,Suburban,0,0,Evening,Pop up,Sports,0
+18,0,49836,Rural,0,1,Evening,Push notif,Finance,0
+21,1,53816,Urban,0,0,Midnight,Banner,Sports,0
+37,0,45534,Rural,0,1,Morning,Push notif,Travel,0
+36,0,33640,Urban,1,1,Afternoon,Push notif,Fashion,0
+41,1,31476,Urban,1,0,Evening,Pop up,Fashion,0
+33,1,43034,Urban,1,1,Evening,Pop up,Sports,0
+38,1,23037,Suburban,1,1,Evening,Banner,Finance,0
+25,0,20367,Suburban,0,1,Midnight,Pop up,Sports,0
+42,1,19925,Suburban,0,1,Evening,Banner,Travel,0
+26,0,59191,Suburban,0,0,Evening,Push notif,Sports,0
+29,1,24347,Urban,1,1,Evening,Push notif,Finance,0
+46,0,49119,Urban,0,0,Midnight,Banner,Fashion,0
+32,1,37789,Urban,1,0,Morning,Banner,Sports,0
+19,0,36581,Urban,0,1,Morning,Pop up,Finance,0
+21,1,51657,Suburban,1,0,Afternoon,Push notif,Travel,0
+22,0,55248,Rural,0,1,Evening,Banner,Fashion,0
+26,1,44026,Rural,1,1,Midnight,Push notif,Sports,0
+40,1,51326,Suburban,0,0,Morning,Pop up,Fashion,0
+49,1,37928,Rural,0,1,Morning,Pop up,Finance,0
+32,1,55093,Urban,1,1,Evening,Push notif,Finance,0
+29,0,28582,Rural,0,0,Midnight,Push notif,Travel,0
+22,0,29479,Urban,1,0,Morning,Pop up,Sports,0
+40,0,21096,Rural,0,1,Evening,Banner,Sports,0
+27,0,33041,Rural,1,1,Afternoon,Pop up,Sports,0
+22,0,25637,Urban,1,0,Morning,Push notif,Travel,0
+31,1,51113,Suburban,0,1,Afternoon,Pop up,Fashion,0
+40,0,55202,Urban,1,0,Morning,Push notif,Fashion,0
+18,1,58694,Rural,1,1,Midnight,Pop up,Sports,0
+44,0,16536,Urban,0,1,Morning,Banner,Sports,0
+34,1,36871,Suburban,1,0,Midnight,Pop up,Sports,0
+42,1,41794,Urban,0,1,Morning,Push notif,Finance,0
+50,0,52362,Urban,1,1,Morning,Push notif,Sports,0
+47,1,30235,Suburban,0,1,Morning,Banner,Sports,0
+27,0,39427,Suburban,0,1,Midnight,Pop up,Sports,0
+28,0,20012,Rural,0,1,Morning,Pop up,Sports,0
+49,1,19869,Urban,0,1,Afternoon,Pop up,Fashion,0
+34,1,53274,Urban,1,1,Morning,Pop up,Finance,0
+46,0,17494,Rural,0,1,Evening,Banner,Sports,0
+21,1,47905,Urban,1,1,Evening,Push notif,Finance,0
+38,0,56008,Urban,0,0,Afternoon,Pop up,Finance,0
+45,1,30061,Urban,0,1,Morning,Push notif,Sports,0
+20,1,56423,Urban,1,1,Afternoon,Pop up,Travel,0
+34,0,58520,Urban,1,0,Afternoon,Banner,Finance,0
+37,0,46183,Urban,0,1,Afternoon,Pop up,Travel,0
+21,0,58333,Urban,0,1,Evening,Banner,Sports,0
+24,1,57043,Suburban,1,0,Morning,Banner,Sports,0
+34,1,34391,Rural,1,0,Evening,Pop up,Fashion,0
+39,0,38608,Suburban,1,1,Afternoon,Pop up,Fashion,0
+29,0,52341,Rural,0,0,Afternoon,Pop up,Finance,0
+38,1,27278,Suburban,0,1,Midnight,Push notif,Finance,0
+26,0,30006,Suburban,0,0,Evening,Pop up,Fashion,0
+20,1,48995,Rural,1,1,Morning,Banner,Sports,0
+27,1,41397,Suburban,0,1,Morning,Banner,Fashion,0
+27,1,54083,Suburban,0,1,Evening,Banner,Travel,0
+30,1,51787,Urban,0,1,Midnight,Banner,Travel,0
+21,1,21990,Rural,1,1,Evening,Banner,Finance,0
+43,0,31987,Urban,1,0,Midnight,Push notif,Travel,0
+45,1,44549,Urban,0,0,Morning,Pop up,Sports,0
+43,1,28081,Rural,1,0,Morning,Pop up,Fashion,0
+43,1,40617,Suburban,1,1,Midnight,Push notif,Sports,0
+41,1,24680,Urban,0,1,Afternoon,Pop up,Sports,0
+45,0,20557,Suburban,0,0,Afternoon,Push notif,Travel,0
+25,1,20526,Rural,0,1,Midnight,Banner,Finance,0
+28,1,43708,Rural,1,1,Evening,Pop up,Fashion,0
+33,1,44601,Suburban,1,1,Evening,Banner,Finance,0
+35,1,16008,Urban,0,0,Afternoon,Banner,Travel,0
+49,1,20029,Rural,0,0,Midnight,Pop up,Finance,0
+50,0,54783,Urban,1,1,Afternoon,Push notif,Travel,0
+20,1,18173,Rural,1,1,Afternoon,Pop up,Fashion,0
+32,1,52649,Urban,1,0,Midnight,Pop up,Travel,0
+34,0,49442,Suburban,1,1,Afternoon,Push notif,Finance,0
+31,0,39973,Rural,1,1,Midnight,Push notif,Sports,0
+38,0,56319,Suburban,1,0,Afternoon,Pop up,Finance,0
+44,0,42660,Urban,0,1,Evening,Push notif,Finance,0
+19,1,19801,Suburban,0,0,Morning,Push notif,Finance,0
+29,1,47519,Rural,1,1,Evening,Push notif,Travel,0
+18,0,36179,Rural,1,1,Midnight,Banner,Travel,0
+34,0,26522,Rural,0,1,Midnight,Push notif,Sports,0
+37,1,27803,Rural,0,0,Evening,Banner,Travel,0
+30,0,32932,Rural,1,0,Afternoon,Banner,Sports,0
+39,0,30831,Rural,0,0,Afternoon,Pop up,Finance,0
+20,0,36296,Urban,1,1,Evening,Banner,Fashion,0
+39,1,39887,Urban,0,0,Afternoon,Pop up,Sports,0
+37,1,53271,Urban,1,0,Afternoon,Banner,Finance,0
+42,1,14316,Suburban,0,0,Afternoon,Pop up,Sports,0
+49,0,25244,Rural,0,1,Midnight,Push notif,Fashion,0
+24,0,45033,Suburban,0,0,Midnight,Banner,Sports,0
+21,1,57025,Urban,1,1,Afternoon,Pop up,Fashion,0
+49,1,23608,Urban,1,1,Afternoon,Banner,Finance,0
+24,1,58771,Urban,0,1,Morning,Banner,Finance,0
+36,1,19079,Suburban,0,0,Morning,Banner,Finance,0
+47,1,36845,Rural,0,0,Afternoon,Push notif,Finance,0
+32,0,14938,Suburban,0,1,Midnight,Pop up,Finance,0
+31,0,23886,Rural,0,0,Evening,Banner,Sports,0
+37,1,54949,Urban,0,0,Midnight,Banner,Fashion,0
+29,1,22865,Urban,0,1,Morning,Pop up,Travel,0
+38,1,46172,Suburban,0,1,Midnight,Banner,Sports,0
+20,1,56886,Urban,0,1,Evening,Push notif,Finance,0
+36,1,28865,Urban,0,0,Morning,Push notif,Travel,0
+32,1,21542,Rural,0,1,Afternoon,Banner,Fashion,0
+25,0,39625,Urban,1,0,Morning,Banner,Sports,0
+42,0,50605,Suburban,0,1,Evening,Pop up,Finance,0
+21,0,33171,Urban,0,0,Midnight,Push notif,Sports,0
+34,0,57884,Urban,1,0,Morning,Banner,Fashion,0
+28,1,58934,Rural,1,1,Evening,Pop up,Finance,0
+19,0,28537,Rural,0,0,Midnight,Banner,Sports,0
+48,1,38935,Rural,1,0,Afternoon,Pop up,Fashion,0
+23,1,51546,Suburban,0,1,Evening,Banner,Travel,0
+43,1,48215,Suburban,1,0,Morning,Push notif,Travel,0
+43,1,32207,Urban,1,1,Morning,Push notif,Travel,0
+46,0,55060,Urban,0,0,Afternoon,Banner,Travel,0
+28,1,41675,Urban,0,1,Afternoon,Push notif,Sports,0
+37,1,39947,Suburban,1,1,Morning,Banner,Sports,0
+36,0,22534,Urban,1,0,Midnight,Banner,Fashion,0
+32,1,38075,Urban,1,1,Midnight,Banner,Travel,0
+19,1,28410,Suburban,1,1,Afternoon,Banner,Finance,0
+18,1,43530,Urban,1,1,Morning,Pop up,Fashion,0
+19,1,48507,Rural,1,1,Midnight,Push notif,Travel,0
+28,0,15297,Suburban,0,0,Morning,Pop up,Sports,0
+49,0,26782,Urban,0,1,Afternoon,Push notif,Finance,0
+50,0,41608,Urban,0,0,Afternoon,Banner,Fashion,0
+20,1,44233,Urban,0,1,Afternoon,Banner,Sports,0
+49,0,49417,Suburban,1,0,Midnight,Push notif,Travel,0
+47,1,37252,Suburban,1,1,Afternoon,Banner,Finance,0
+44,0,45753,Urban,0,1,Afternoon,Push notif,Sports,0
+24,1,39466,Rural,1,1,Midnight,Banner,Finance,0
+24,0,38004,Rural,1,1,Morning,Push notif,Finance,0
+39,1,51371,Rural,1,1,Morning,Push notif,Finance,0
+50,1,18112,Urban,1,1,Midnight,Banner,Sports,0
+31,0,44894,Urban,0,1,Morning,Pop up,Travel,0
+42,1,13806,Urban,0,0,Midnight,Banner,Sports,0
+40,1,50970,Suburban,1,1,Midnight,Pop up,Finance,0
+18,0,27114,Suburban,0,0,Morning,Push notif,Sports,0
+28,0,41930,Suburban,1,1,Afternoon,Pop up,Fashion,0
+48,0,52981,Suburban,0,1,Morning,Banner,Sports,0
+46,1,24015,Suburban,1,1,Morning,Banner,Sports,0
+34,1,17243,Rural,1,1,Evening,Push notif,Travel,0
+32,0,43411,Suburban,0,1,Afternoon,Pop up,Fashion,0
+47,0,43786,Urban,1,0,Midnight,Pop up,Finance,0
+35,0,27580,Suburban,0,0,Midnight,Banner,Sports,0
+39,0,30349,Urban,1,1,Evening,Pop up,Travel,0
+21,1,23453,Suburban,1,0,Midnight,Pop up,Travel,0
+42,1,33479,Urban,1,1,Afternoon,Pop up,Sports,0
+26,1,43559,Rural,0,1,Midnight,Pop up,Sports,0
+40,1,25787,Rural,1,0,Afternoon,Push notif,Sports,0
+40,1,17824,Rural,0,1,Midnight,Pop up,Finance,0
+28,1,58421,Suburban,0,1,Evening,Pop up,Fashion,0
+46,0,17532,Suburban,0,0,Evening,Push notif,Travel,0
+24,1,48090,Urban,1,1,Midnight,Banner,Fashion,0
+26,0,37525,Rural,0,1,Morning,Push notif,Travel,0
+18,1,52602,Rural,1,0,Midnight,Banner,Fashion,0
+29,1,24762,Suburban,1,1,Midnight,Pop up,Finance,0
+50,1,38637,Suburban,1,0,Evening,Pop up,Fashion,0
+27,0,14748,Suburban,0,0,Afternoon,Banner,Travel,0
+18,1,29987,Rural,1,1,Morning,Pop up,Fashion,0
+34,0,50556,Suburban,1,1,Midnight,Push notif,Fashion,0
+48,1,51130,Rural,0,1,Morning,Pop up,Fashion,0
+40,0,26196,Rural,0,1,Afternoon,Banner,Sports,0
+29,0,32209,Rural,0,0,Morning,Banner,Finance,0
+40,0,50203,Urban,1,0,Morning,Push notif,Sports,0
+41,1,40389,Urban,1,1,Afternoon,Banner,Fashion,0
+45,1,43646,Suburban,1,1,Midnight,Banner,Fashion,0
+35,0,17260,Urban,0,1,Afternoon,Push notif,Finance,0
+48,0,53421,Urban,0,1,Morning,Pop up,Fashion,0
+46,1,48250,Rural,0,1,Evening,Banner,Finance,0
+48,1,17895,Rural,1,1,Evening,Banner,Sports,0
+36,1,56952,Urban,1,1,Evening,Pop up,Fashion,0
+26,1,13648,Urban,0,1,Afternoon,Banner,Travel,0
+18,0,23008,Urban,0,1,Afternoon,Push notif,Fashion,0
+39,0,39574,Suburban,1,0,Evening,Banner,Travel,0
+31,0,17885,Suburban,1,1,Evening,Push notif,Finance,0
+32,1,14662,Urban,1,1,Morning,Push notif,Sports,0
+48,0,25038,Suburban,0,0,Morning,Push notif,Sports,0
+47,0,22965,Rural,1,0,Morning,Push notif,Travel,0
+40,0,22806,Suburban,1,1,Evening,Push notif,Travel,0
+25,1,45862,Rural,0,0,Evening,Push notif,Finance,0
+33,1,33843,Suburban,1,1,Midnight,Push notif,Fashion,0
+22,0,48820,Rural,0,0,Midnight,Banner,Finance,0
+28,0,13099,Rural,1,0,Morning,Banner,Sports,0
+32,0,13141,Urban,1,0,Midnight,Push notif,Fashion,0
+32,0,43877,Suburban,0,0,Morning,Push notif,Fashion,0
+41,0,22184,Suburban,0,0,Evening,Pop up,Travel,0
+42,1,33227,Suburban,0,0,Midnight,Pop up,Travel,0
+19,0,29554,Suburban,1,0,Morning,Banner,Sports,0
+40,0,25075,Urban,0,0,Midnight,Banner,Travel,0
+27,0,51577,Urban,1,0,Midnight,Pop up,Finance,0
+22,1,25786,Rural,1,1,Morning,Push notif,Travel,0
+44,1,21008,Urban,0,0,Morning,Banner,Sports,0
+37,1,47046,Suburban,1,1,Evening,Banner,Travel,0
+18,0,32319,Urban,0,1,Morning,Banner,Travel,0
+31,1,53787,Urban,1,1,Midnight,Banner,Sports,0
+48,1,46947,Rural,1,0,Evening,Push notif,Finance,0
+29,0,39394,Urban,0,0,Morning,Pop up,Sports,0
+35,0,22560,Rural,1,1,Afternoon,Pop up,Sports,0
+28,1,24608,Urban,1,1,Evening,Push notif,Finance,0
+49,1,14423,Urban,1,1,Evening,Banner,Finance,0
+18,0,44616,Suburban,1,1,Afternoon,Push notif,Travel,0
+33,1,56468,Rural,1,0,Morning,Push notif,Fashion,0
+26,1,26931,Rural,0,1,Midnight,Banner,Travel,0
+22,0,43172,Urban,0,0,Midnight,Banner,Travel,0
+45,0,56466,Rural,0,0,Midnight,Pop up,Finance,0
+50,1,43209,Rural,1,0,Afternoon,Push notif,Sports,0
+44,0,35730,Urban,1,1,Afternoon,Banner,Sports,0
+39,1,44119,Suburban,1,1,Morning,Banner,Finance,0
+29,0,17568,Rural,1,1,Morning,Pop up,Sports,0
+23,1,20725,Rural,0,0,Morning,Banner,Travel,0
+24,0,15221,Suburban,1,1,Midnight,Banner,Finance,0
+19,0,55454,Urban,0,0,Morning,Banner,Travel,0
+26,1,58499,Suburban,1,1,Afternoon,Pop up,Travel,0
+44,0,55892,Rural,1,0,Morning,Push notif,Fashion,0
+18,0,36352,Urban,0,1,Midnight,Pop up,Finance,0
+19,1,23635,Suburban,0,1,Evening,Banner,Travel,0
+34,0,53322,Suburban,1,1,Afternoon,Banner,Travel,0
+43,1,45464,Suburban,1,1,Midnight,Pop up,Fashion,0
+21,1,47171,Rural,0,0,Morning,Push notif,Travel,0
+47,0,19807,Rural,0,1,Midnight,Pop up,Travel,0
+37,1,38972,Rural,0,0,Midnight,Push notif,Finance,0
+40,0,37256,Urban,0,1,Midnight,Push notif,Finance,0
+25,1,15071,Rural,1,1,Evening,Pop up,Finance,0
+38,1,38842,Rural,1,1,Afternoon,Pop up,Fashion,0
+48,1,20604,Urban,0,0,Afternoon,Push notif,Sports,0
+31,1,48227,Urban,1,1,Evening,Push notif,Finance,0
+46,1,56563,Suburban,1,1,Midnight,Push notif,Travel,0
+47,0,58705,Rural,0,1,Midnight,Banner,Finance,0
+50,0,19317,Suburban,1,1,Midnight,Pop up,Travel,0
+34,0,16626,Suburban,1,1,Midnight,Pop up,Finance,0
+23,1,31815,Rural,0,0,Evening,Push notif,Sports,0
+24,0,20060,Suburban,1,1,Morning,Push notif,Sports,0
+25,1,29357,Rural,1,1,Afternoon,Banner,Finance,0
+47,1,37045,Suburban,1,0,Afternoon,Push notif,Finance,0
+24,1,35863,Urban,1,1,Morning,Pop up,Finance,0
+20,0,49930,Urban,1,1,Evening,Push notif,Sports,0
+25,0,56145,Suburban,1,1,Midnight,Pop up,Fashion,0
+22,0,35106,Suburban,0,1,Afternoon,Pop up,Travel,0
+37,0,27825,Urban,1,1,Afternoon,Push notif,Travel,0
+24,0,26885,Urban,1,1,Midnight,Banner,Sports,0
+47,1,19085,Urban,0,1,Evening,Push notif,Fashion,0
+50,1,20674,Suburban,1,0,Evening,Pop up,Travel,0
+25,1,19103,Suburban,1,1,Afternoon,Push notif,Travel,0
+18,0,14583,Suburban,1,0,Midnight,Push notif,Sports,0
+41,0,45284,Suburban,1,1,Evening,Push notif,Finance,0
+46,0,58783,Urban,1,0,Afternoon,Banner,Fashion,0
+49,1,40958,Suburban,0,1,Morning,Pop up,Sports,0
+44,1,57560,Suburban,1,1,Afternoon,Push notif,Finance,0
+37,1,26869,Suburban,1,1,Afternoon,Pop up,Fashion,0
+25,0,25057,Rural,0,1,Afternoon,Banner,Sports,0
+36,0,38342,Suburban,1,0,Midnight,Banner,Fashion,0
+24,1,53963,Suburban,1,0,Afternoon,Banner,Finance,0
+23,1,33728,Rural,1,1,Morning,Banner,Travel,0
+26,1,59191,Urban,0,1,Morning,Push notif,Sports,0
+18,1,36294,Suburban,0,1,Afternoon,Pop up,Sports,0
+23,0,45464,Rural,1,1,Morning,Push notif,Finance,0
+25,0,18940,Suburban,1,1,Afternoon,Banner,Finance,0
+46,0,59013,Urban,1,0,Evening,Banner,Travel,0
+20,1,21600,Rural,0,1,Evening,Pop up,Sports,0
+42,1,33761,Suburban,1,1,Afternoon,Pop up,Finance,0
+37,0,23275,Urban,0,0,Afternoon,Pop up,Finance,0
+28,0,15933,Suburban,1,0,Afternoon,Pop up,Travel,0
+33,0,30790,Urban,0,1,Midnight,Push notif,Travel,0
+45,1,59093,Urban,0,0,Afternoon,Banner,Sports,0
+42,0,14523,Urban,0,1,Evening,Banner,Finance,0
+29,0,24953,Rural,0,0,Morning,Push notif,Finance,0
+24,0,34865,Suburban,1,0,Afternoon,Pop up,Finance,0
+19,1,24826,Urban,0,1,Midnight,Pop up,Fashion,0
+29,1,47429,Rural,1,1,Midnight,Banner,Travel,0
+23,1,31117,Rural,1,1,Evening,Banner,Travel,0
+20,0,27480,Rural,0,0,Morning,Push notif,Fashion,0
+26,0,28577,Rural,1,0,Afternoon,Push notif,Fashion,0
+40,1,20375,Suburban,0,0,Evening,Pop up,Fashion,0
+32,1,52134,Rural,0,0,Morning,Pop up,Finance,0
+47,0,13547,Urban,1,0,Evening,Banner,Sports,0
+19,1,30423,Rural,1,0,Evening,Push notif,Fashion,0
+21,0,45867,Urban,1,1,Morning,Push notif,Sports,0
+34,0,51995,Urban,1,1,Morning,Banner,Travel,0
+24,1,38480,Urban,1,1,Evening,Banner,Sports,0
+18,1,25617,Rural,1,0,Evening,Push notif,Sports,0
+33,0,58200,Suburban,0,0,Midnight,Banner,Travel,0
+35,0,49733,Urban,1,0,Morning,Pop up,Finance,0
+47,1,20521,Urban,0,1,Midnight,Push notif,Sports,0
+28,1,32724,Rural,0,1,Afternoon,Banner,Sports,0
+38,1,59535,Suburban,0,1,Midnight,Push notif,Finance,0
+48,0,25982,Suburban,0,0,Midnight,Push notif,Travel,0
+18,0,17762,Urban,1,1,Afternoon,Banner,Fashion,0
+50,0,20400,Urban,1,1,Afternoon,Banner,Travel,0
+21,0,14871,Urban,1,0,Afternoon,Pop up,Finance,0
+49,0,14775,Urban,0,1,Midnight,Pop up,Finance,0
+45,1,58596,Urban,0,1,Midnight,Banner,Sports,0
+40,1,39993,Rural,0,1,Morning,Banner,Finance,0
+41,1,59179,Rural,1,1,Afternoon,Pop up,Sports,0
+36,1,54939,Rural,0,1,Evening,Pop up,Fashion,0
+36,1,53491,Suburban,0,0,Morning,Banner,Fashion,0
+27,0,24852,Urban,0,1,Evening,Banner,Travel,0
+29,1,44164,Rural,1,1,Afternoon,Pop up,Travel,0
+43,0,56687,Suburban,1,1,Afternoon,Push notif,Fashion,0
+28,1,28052,Suburban,0,1,Morning,Push notif,Fashion,0
+28,1,15673,Suburban,0,0,Morning,Banner,Travel,0
+45,1,47865,Suburban,0,0,Afternoon,Pop up,Fashion,0
+44,0,33368,Suburban,1,1,Evening,Push notif,Travel,0
+23,0,53360,Rural,0,0,Midnight,Push notif,Travel,0
+48,0,39305,Rural,1,0,Afternoon,Banner,Fashion,0
+31,0,51394,Rural,0,0,Afternoon,Push notif,Sports,0
+34,1,51992,Rural,1,1,Midnight,Banner,Finance,0
+25,1,55631,Rural,1,0,Afternoon,Pop up,Fashion,0
+48,0,52348,Urban,1,1,Afternoon,Banner,Fashion,0
+25,1,55809,Urban,1,0,Morning,Banner,Sports,0
+43,1,52947,Suburban,0,0,Morning,Pop up,Fashion,0
+31,1,48239,Rural,1,1,Afternoon,Push notif,Sports,0
+47,1,30423,Urban,1,0,Afternoon,Banner,Travel,0
+39,0,47192,Rural,1,1,Midnight,Pop up,Fashion,0
+32,1,29455,Suburban,0,0,Morning,Push notif,Finance,0
+27,1,23057,Suburban,0,0,Midnight,Push notif,Sports,0
+39,0,37286,Suburban,0,0,Midnight,Banner,Sports,0
+38,0,33561,Urban,0,0,Morning,Banner,Travel,0
+26,1,47522,Urban,1,0,Morning,Pop up,Fashion,0
+31,1,42067,Urban,1,0,Evening,Pop up,Travel,0
+49,1,38990,Urban,0,0,Evening,Push notif,Fashion,0
+44,0,19311,Rural,0,0,Morning,Push notif,Finance,0
+21,1,47673,Rural,1,1,Afternoon,Push notif,Sports,0
+32,0,49008,Suburban,1,0,Midnight,Pop up,Travel,0
+26,0,42036,Suburban,1,0,Evening,Push notif,Fashion,0
+32,1,37362,Rural,1,0,Afternoon,Banner,Finance,0
+47,1,31493,Urban,0,1,Morning,Pop up,Finance,0
+46,0,39785,Urban,0,0,Midnight,Banner,Sports,0
+47,1,57868,Suburban,1,0,Midnight,Push notif,Travel,0
+46,0,51169,Urban,0,1,Midnight,Banner,Sports,0
+32,0,30895,Suburban,1,0,Midnight,Banner,Sports,0
+22,0,24119,Rural,0,0,Afternoon,Pop up,Travel,0
+28,1,48291,Rural,0,0,Afternoon,Push notif,Finance,0
+47,0,31225,Rural,1,1,Morning,Banner,Finance,0
+44,0,40219,Urban,1,0,Afternoon,Push notif,Fashion,0
+34,1,50772,Suburban,1,1,Midnight,Push notif,Travel,0
+43,1,37246,Suburban,0,0,Evening,Pop up,Finance,0
+36,0,17546,Urban,0,0,Midnight,Banner,Sports,0
+30,0,40627,Suburban,1,0,Evening,Pop up,Travel,0
+30,1,23424,Urban,1,1,Morning,Pop up,Sports,0
+47,0,30981,Rural,0,0,Midnight,Pop up,Fashion,0
+33,0,52061,Rural,0,1,Afternoon,Banner,Finance,0
+34,1,20863,Urban,0,0,Midnight,Pop up,Fashion,0
+46,1,18050,Suburban,1,1,Morning,Banner,Travel,0
+24,0,57015,Suburban,1,0,Morning,Push notif,Travel,0
+49,1,32645,Rural,1,1,Morning,Pop up,Fashion,0
+46,0,15249,Urban,1,1,Evening,Banner,Sports,0
+34,1,48321,Suburban,1,1,Evening,Pop up,Travel,0
+35,0,21308,Suburban,1,0,Evening,Pop up,Sports,0
+28,1,38887,Rural,0,0,Morning,Push notif,Sports,0
+19,0,27816,Rural,0,1,Evening,Pop up,Sports,0
+23,0,58248,Suburban,0,0,Afternoon,Push notif,Fashion,0
+45,0,59831,Rural,1,0,Midnight,Banner,Fashion,0
+47,1,17418,Urban,0,1,Afternoon,Push notif,Sports,0
+50,0,42725,Urban,1,0,Evening,Banner,Fashion,0
+19,0,52960,Rural,1,0,Morning,Pop up,Fashion,0
+21,0,19195,Urban,1,0,Morning,Pop up,Finance,0
+33,0,48954,Urban,0,1,Evening,Banner,Travel,0
+24,0,54610,Suburban,0,0,Midnight,Banner,Travel,0
+23,0,46060,Rural,1,0,Afternoon,Banner,Fashion,0
+48,0,54245,Suburban,1,0,Afternoon,Push notif,Fashion,0
+49,1,54864,Urban,0,1,Morning,Pop up,Finance,0
+23,0,34132,Rural,1,1,Midnight,Banner,Travel,0
+49,1,46665,Urban,0,0,Midnight,Pop up,Fashion,0
+48,0,59361,Rural,1,1,Midnight,Banner,Fashion,0
+28,0,44321,Suburban,1,0,Afternoon,Banner,Finance,0
+49,0,20973,Rural,1,0,Afternoon,Push notif,Finance,0
+47,0,32720,Rural,0,1,Evening,Banner,Travel,0
+23,1,16966,Suburban,1,1,Evening,Push notif,Travel,0
+32,1,17721,Suburban,1,1,Morning,Pop up,Travel,0
+18,0,27591,Suburban,0,0,Midnight,Pop up,Sports,0
+18,0,28757,Suburban,1,1,Morning,Banner,Finance,0
+31,1,41978,Rural,0,0,Morning,Pop up,Fashion,0
+48,0,42211,Suburban,1,1,Evening,Banner,Sports,0
+42,1,22429,Suburban,0,1,Evening,Pop up,Finance,0
+50,0,38711,Suburban,1,0,Evening,Push notif,Sports,0
+32,0,51103,Suburban,0,0,Evening,Push notif,Fashion,0
+34,0,19746,Urban,0,1,Morning,Push notif,Sports,0
+50,0,13817,Rural,1,1,Midnight,Pop up,Travel,0
+26,1,40905,Suburban,1,1,Midnight,Banner,Fashion,0
+41,1,31642,Urban,1,1,Midnight,Push notif,Fashion,0
+48,0,24193,Suburban,0,1,Midnight,Pop up,Fashion,0
+24,1,21578,Urban,0,1,Afternoon,Banner,Travel,0
+42,1,28719,Urban,1,1,Afternoon,Push notif,Finance,0
+44,0,52969,Rural,1,0,Evening,Pop up,Fashion,0
+19,0,57503,Suburban,0,0,Morning,Pop up,Sports,0
+19,0,19369,Suburban,1,1,Afternoon,Pop up,Travel,0
+50,0,22868,Rural,0,0,Afternoon,Push notif,Fashion,0
+42,1,48112,Urban,0,0,Afternoon,Push notif,Sports,0
+33,1,45004,Urban,0,1,Midnight,Pop up,Fashion,0
+18,0,51991,Suburban,0,0,Midnight,Pop up,Sports,0
+23,1,42577,Rural,1,1,Midnight,Banner,Fashion,0
+39,0,31802,Suburban,1,0,Afternoon,Banner,Fashion,0
+44,1,41350,Rural,0,0,Midnight,Pop up,Fashion,0
+29,0,20340,Rural,1,0,Morning,Banner,Fashion,0
+31,1,15267,Suburban,1,0,Midnight,Push notif,Fashion,0
+50,0,29023,Rural,1,0,Afternoon,Banner,Fashion,0
+24,1,53561,Rural,1,1,Morning,Banner,Travel,0
+43,0,43338,Rural,0,1,Evening,Pop up,Finance,0
+44,0,44697,Urban,1,1,Midnight,Pop up,Fashion,0
+21,1,29483,Urban,0,0,Evening,Push notif,Finance,0
+49,1,16065,Rural,0,1,Morning,Banner,Travel,0
+49,0,23034,Urban,1,1,Morning,Pop up,Sports,0
+49,1,42735,Urban,0,1,Morning,Pop up,Finance,0
+25,1,45564,Suburban,0,0,Evening,Pop up,Travel,0
+20,1,31487,Urban,0,0,Morning,Banner,Fashion,0
+24,0,33182,Rural,1,1,Midnight,Pop up,Travel,0
+48,1,53227,Rural,1,1,Evening,Push notif,Travel,0
+21,0,56084,Urban,1,1,Midnight,Banner,Fashion,0
+32,0,54285,Urban,0,1,Evening,Push notif,Travel,0
+34,1,48903,Rural,0,1,Evening,Banner,Fashion,0
+20,0,56583,Suburban,1,1,Evening,Pop up,Finance,0
+20,1,17806,Rural,1,1,Evening,Pop up,Travel,0
+49,0,32196,Suburban,0,1,Evening,Push notif,Fashion,0
+43,1,38563,Rural,1,1,Evening,Push notif,Fashion,0
+37,0,40937,Suburban,1,0,Afternoon,Banner,Fashion,0
+32,1,45851,Urban,1,1,Morning,Banner,Finance,0
+26,0,22682,Suburban,1,1,Midnight,Pop up,Travel,0
+36,1,54766,Urban,0,1,Midnight,Push notif,Travel,0
+42,1,45841,Urban,0,0,Midnight,Push notif,Fashion,0
+49,1,21170,Urban,1,1,Afternoon,Push notif,Fashion,0
+46,1,44355,Suburban,1,1,Afternoon,Banner,Travel,0
+28,0,47298,Rural,0,1,Afternoon,Pop up,Fashion,0
+25,1,51582,Suburban,1,1,Afternoon,Pop up,Finance,0
+18,0,37953,Rural,0,1,Evening,Push notif,Sports,0
+34,0,43598,Suburban,0,1,Evening,Banner,Travel,0
+32,0,19092,Urban,0,1,Midnight,Pop up,Fashion,0
+26,1,14315,Rural,1,0,Morning,Pop up,Finance,0
+18,1,31229,Rural,1,1,Morning,Push notif,Fashion,0
+32,0,38266,Suburban,1,1,Evening,Push notif,Sports,0
+18,0,36633,Suburban,1,0,Morning,Pop up,Fashion,0
+25,0,47228,Suburban,0,1,Evening,Pop up,Sports,0
+24,0,46091,Suburban,0,1,Morning,Pop up,Finance,0
+48,1,42520,Urban,1,0,Midnight,Pop up,Finance,0
+25,0,13884,Rural,0,0,Midnight,Pop up,Fashion,0
+18,1,50001,Suburban,1,1,Evening,Pop up,Fashion,0
+39,1,33826,Rural,0,1,Evening,Banner,Sports,0
+32,1,48503,Suburban,1,1,Evening,Push notif,Finance,0
+25,0,32661,Suburban,0,0,Afternoon,Pop up,Finance,0
+36,0,47797,Rural,1,0,Morning,Banner,Finance,0
+30,1,32793,Urban,0,1,Morning,Push notif,Travel,0
+38,0,26623,Urban,1,0,Afternoon,Pop up,Finance,0
+31,0,46408,Suburban,1,1,Evening,Pop up,Finance,0
+18,1,20001,Suburban,1,1,Midnight,Banner,Travel,0
+25,1,29210,Rural,0,0,Midnight,Banner,Sports,0
+31,0,16835,Suburban,0,0,Midnight,Push notif,Travel,0
+33,0,47647,Rural,0,0,Afternoon,Pop up,Fashion,0
+27,1,54824,Rural,1,0,Evening,Push notif,Travel,0
+42,0,40011,Rural,0,0,Afternoon,Banner,Sports,0
+21,1,25288,Rural,1,1,Evening,Pop up,Travel,0
+43,0,30843,Suburban,1,1,Midnight,Pop up,Sports,0
+42,1,33811,Urban,0,1,Morning,Pop up,Travel,0
+19,1,34666,Rural,1,0,Evening,Banner,Sports,0
+37,1,24266,Rural,0,0,Afternoon,Banner,Sports,0
+26,0,26173,Urban,1,1,Afternoon,Push notif,Sports,0
+32,1,15165,Rural,1,0,Midnight,Push notif,Travel,0
+20,0,22334,Rural,0,1,Afternoon,Pop up,Travel,0
+32,0,45292,Suburban,1,1,Afternoon,Banner,Travel,0
+43,1,26589,Rural,0,0,Evening,Banner,Fashion,0
+34,0,56582,Urban,1,0,Midnight,Push notif,Sports,0
+23,1,13842,Suburban,1,1,Evening,Push notif,Sports,0
+41,0,48728,Rural,0,1,Afternoon,Pop up,Fashion,0
+20,1,36752,Rural,1,1,Evening,Banner,Finance,0
+44,1,45173,Suburban,0,0,Evening,Push notif,Travel,0
+50,1,21927,Urban,1,0,Afternoon,Banner,Fashion,0
+40,1,29095,Rural,0,1,Afternoon,Pop up,Travel,0
+43,0,45778,Rural,0,0,Midnight,Pop up,Finance,0
+22,1,26750,Rural,0,0,Morning,Push notif,Sports,0
+23,0,48748,Rural,1,1,Afternoon,Push notif,Sports,0
+40,1,41758,Rural,1,1,Afternoon,Banner,Finance,0
+42,0,17305,Suburban,0,1,Midnight,Push notif,Fashion,0
+35,0,19553,Suburban,0,0,Morning,Pop up,Finance,0
+45,1,20013,Suburban,0,1,Midnight,Pop up,Travel,0
+46,0,51415,Suburban,1,1,Evening,Push notif,Fashion,0
+37,1,13262,Urban,1,1,Morning,Pop up,Finance,0
+20,1,58143,Urban,1,1,Morning,Banner,Finance,0
+48,1,48133,Urban,0,1,Midnight,Banner,Finance,0
+39,0,48208,Urban,0,1,Evening,Push notif,Finance,0
+27,1,39667,Rural,1,0,Evening,Pop up,Travel,0
+40,0,37934,Suburban,0,1,Evening,Push notif,Travel,0
+39,1,33519,Rural,0,1,Morning,Pop up,Sports,0
+33,1,14019,Suburban,0,1,Afternoon,Push notif,Sports,0
+23,1,51113,Rural,0,0,Afternoon,Push notif,Sports,0
+45,1,36430,Urban,1,1,Evening,Banner,Fashion,0
+35,1,36719,Urban,1,1,Morning,Banner,Fashion,0
+29,1,57790,Rural,0,1,Morning,Banner,Travel,0
+36,0,49015,Urban,1,1,Morning,Push notif,Sports,0
+49,1,50866,Suburban,0,0,Afternoon,Pop up,Sports,0
+25,0,50189,Suburban,0,1,Morning,Banner,Fashion,0
+46,1,37421,Rural,0,0,Midnight,Banner,Finance,0
+32,0,49391,Suburban,0,0,Evening,Push notif,Travel,0
+40,0,46555,Urban,1,0,Midnight,Banner,Finance,0
+32,1,13487,Suburban,0,0,Morning,Banner,Fashion,0
+48,0,41022,Urban,1,0,Afternoon,Push notif,Travel,0
+38,0,19873,Suburban,1,0,Morning,Push notif,Finance,0
+25,0,40764,Urban,1,1,Morning,Pop up,Travel,0
+31,0,18292,Urban,0,1,Evening,Push notif,Travel,0
+37,1,33903,Suburban,1,0,Afternoon,Banner,Fashion,0
+48,1,34736,Urban,0,1,Midnight,Pop up,Fashion,0
+46,0,24499,Suburban,1,0,Morning,Banner,Travel,0
+21,0,23998,Urban,0,1,Evening,Pop up,Finance,0
+47,0,22887,Suburban,1,1,Morning,Pop up,Finance,0
+36,0,25101,Urban,1,1,Evening,Push notif,Fashion,0
+43,0,50035,Rural,1,1,Evening,Push notif,Fashion,0
+37,0,24734,Rural,0,1,Evening,Push notif,Fashion,0
+48,0,13069,Urban,0,0,Afternoon,Push notif,Sports,0
+23,1,40035,Rural,0,0,Evening,Push notif,Fashion,0
+33,1,46518,Rural,0,0,Midnight,Pop up,Sports,0
+22,0,22446,Suburban,0,0,Midnight,Push notif,Finance,0
+42,0,59259,Rural,1,0,Evening,Push notif,Travel,0
+25,1,55007,Urban,1,1,Afternoon,Pop up,Fashion,0
+30,1,18381,Urban,1,0,Morning,Push notif,Travel,0
+37,0,55175,Suburban,1,1,Afternoon,Pop up,Travel,0
+28,0,50848,Rural,0,0,Evening,Pop up,Travel,0
+28,1,23216,Urban,0,1,Afternoon,Push notif,Travel,0
+38,0,48704,Urban,0,0,Morning,Pop up,Fashion,0
+23,1,50933,Rural,1,1,Midnight,Pop up,Finance,0
+49,1,39893,Urban,0,1,Afternoon,Pop up,Travel,0
+45,0,46496,Rural,0,0,Morning,Banner,Sports,0
+31,1,14034,Rural,0,1,Afternoon,Push notif,Sports,0
+23,0,57501,Suburban,1,1,Morning,Pop up,Fashion,0
+18,1,39621,Urban,0,1,Morning,Banner,Travel,0
+38,0,18918,Rural,0,1,Morning,Push notif,Finance,0
+33,0,37509,Suburban,0,1,Morning,Banner,Travel,0
+26,1,53154,Suburban,0,1,Afternoon,Banner,Fashion,0
+28,0,52569,Suburban,0,0,Morning,Push notif,Travel,0
+44,1,29917,Rural,0,1,Morning,Pop up,Fashion,0
+42,0,45411,Suburban,0,0,Evening,Banner,Finance,0
+38,0,54722,Urban,1,1,Afternoon,Banner,Sports,0
+26,0,53939,Suburban,1,0,Morning,Push notif,Sports,0
+23,1,13594,Rural,1,0,Midnight,Banner,Finance,0
+44,1,30594,Suburban,1,1,Morning,Banner,Fashion,0
+46,1,14470,Urban,0,0,Afternoon,Push notif,Sports,0
+18,0,33660,Suburban,1,1,Afternoon,Banner,Finance,0
+19,1,30980,Urban,1,1,Afternoon,Pop up,Fashion,0
+23,1,14429,Rural,1,0,Morning,Pop up,Finance,0
+39,1,18151,Urban,0,0,Morning,Push notif,Sports,0
+33,0,15974,Suburban,0,0,Morning,Push notif,Fashion,0
+39,0,33305,Urban,0,1,Midnight,Banner,Fashion,0
+34,1,13125,Rural,1,1,Afternoon,Banner,Finance,0
+45,0,51091,Suburban,1,0,Afternoon,Push notif,Finance,0
+23,0,27212,Rural,0,1,Midnight,Push notif,Travel,0
+36,0,34926,Urban,1,1,Evening,Pop up,Finance,0
+34,0,55504,Suburban,1,0,Evening,Pop up,Finance,0
+30,1,22451,Rural,0,0,Midnight,Pop up,Sports,0
+47,0,35674,Urban,1,0,Midnight,Pop up,Travel,0
+40,0,52228,Rural,0,1,Morning,Pop up,Travel,0
+27,1,18387,Suburban,0,0,Midnight,Banner,Sports,0
+49,1,35811,Urban,0,0,Afternoon,Push notif,Travel,0
+18,1,36333,Suburban,0,1,Morning,Push notif,Finance,0
+29,0,49841,Suburban,0,0,Morning,Pop up,Travel,0
+45,1,58941,Rural,0,0,Afternoon,Banner,Sports,0
+34,1,40871,Suburban,1,0,Afternoon,Pop up,Finance,0
+21,1,39271,Urban,0,1,Evening,Banner,Finance,0
+46,1,46686,Rural,0,1,Afternoon,Push notif,Finance,0
+31,1,30340,Rural,1,1,Midnight,Push notif,Sports,0
+23,0,51540,Rural,1,0,Morning,Pop up,Finance,0
+32,0,13447,Rural,0,0,Afternoon,Pop up,Fashion,0
+30,1,35757,Urban,1,1,Morning,Push notif,Travel,0
+21,0,56239,Urban,0,1,Afternoon,Pop up,Sports,0
+49,1,19798,Rural,1,0,Morning,Pop up,Fashion,0
+39,1,37610,Suburban,0,1,Evening,Banner,Finance,0
+24,1,14185,Urban,1,1,Afternoon,Pop up,Fashion,0
+42,1,28481,Rural,0,0,Morning,Banner,Fashion,0
+18,1,14568,Urban,0,0,Midnight,Banner,Finance,0
+43,1,30727,Rural,1,1,Afternoon,Pop up,Finance,0
+43,0,41962,Suburban,1,1,Midnight,Pop up,Sports,0
+30,1,54551,Suburban,1,0,Afternoon,Pop up,Fashion,0
+32,1,37433,Suburban,0,0,Afternoon,Pop up,Fashion,0
+31,1,47459,Rural,0,1,Morning,Pop up,Sports,0
+39,1,23772,Suburban,1,0,Afternoon,Pop up,Sports,0
+27,1,37149,Rural,0,1,Afternoon,Banner,Sports,0
+47,1,17303,Suburban,1,0,Morning,Pop up,Travel,0
+36,0,25763,Urban,1,1,Morning,Push notif,Fashion,0
+23,1,13653,Urban,1,1,Morning,Pop up,Finance,0
+41,0,34289,Suburban,1,1,Midnight,Push notif,Finance,0
+33,1,34188,Suburban,1,1,Afternoon,Push notif,Sports,0
+20,1,53731,Suburban,1,0,Midnight,Pop up,Finance,0
+41,1,46714,Suburban,0,1,Afternoon,Push notif,Fashion,0
+37,0,53121,Rural,1,0,Midnight,Banner,Travel,0
+42,0,37919,Urban,1,0,Morning,Push notif,Sports,0
+43,0,33282,Suburban,0,0,Morning,Push notif,Finance,0
+46,0,56845,Urban,1,0,Morning,Push notif,Finance,0
+39,0,36627,Suburban,1,1,Midnight,Banner,Finance,0
+32,0,24156,Suburban,1,1,Evening,Banner,Fashion,0
+46,1,36330,Urban,1,1,Morning,Banner,Sports,0
+18,0,33297,Suburban,1,1,Midnight,Push notif,Travel,0
+21,1,19134,Suburban,1,1,Morning,Pop up,Sports,0
+43,0,26162,Urban,0,0,Afternoon,Banner,Sports,0
+19,1,39452,Urban,1,1,Morning,Pop up,Finance,0
+27,0,35181,Rural,1,0,Evening,Pop up,Finance,0
+37,0,44387,Suburban,1,1,Evening,Push notif,Finance,0
+26,1,16730,Urban,0,1,Afternoon,Pop up,Fashion,0
+39,1,50018,Suburban,0,0,Evening,Pop up,Finance,0
+23,1,55258,Urban,0,1,Midnight,Pop up,Sports,0
+35,0,22716,Suburban,0,0,Morning,Banner,Travel,0
+18,1,23248,Urban,1,0,Afternoon,Banner,Finance,0
+36,0,17122,Suburban,0,0,Morning,Banner,Travel,0
+44,0,16060,Urban,1,0,Morning,Pop up,Finance,0
+22,1,29575,Urban,0,0,Evening,Banner,Travel,0
+36,1,17218,Rural,1,1,Morning,Push notif,Finance,0
+33,1,28513,Rural,1,0,Morning,Pop up,Fashion,0
+40,1,16128,Suburban,0,0,Afternoon,Push notif,Sports,0
+24,0,18412,Suburban,0,1,Afternoon,Banner,Travel,0
+50,1,32589,Rural,0,0,Afternoon,Pop up,Travel,0
+43,1,54013,Suburban,1,0,Afternoon,Banner,Travel,0
+23,0,40213,Suburban,1,1,Evening,Push notif,Fashion,0
+26,1,35542,Suburban,1,1,Midnight,Push notif,Fashion,0
+23,0,17038,Urban,0,0,Afternoon,Banner,Sports,0
+46,0,29743,Rural,1,0,Morning,Banner,Fashion,0
+31,1,41532,Rural,0,1,Morning,Pop up,Travel,0
+24,0,28317,Rural,0,1,Afternoon,Push notif,Fashion,0
+44,1,27798,Rural,0,0,Morning,Banner,Sports,0
+29,1,27696,Rural,1,1,Afternoon,Push notif,Fashion,0
+48,0,50646,Rural,0,1,Afternoon,Banner,Fashion,0
+49,1,32523,Suburban,1,0,Afternoon,Push notif,Fashion,0
+39,1,36846,Rural,1,1,Midnight,Pop up,Fashion,0
+25,0,52937,Suburban,0,1,Evening,Push notif,Fashion,0
+18,1,41187,Rural,0,0,Afternoon,Push notif,Sports,0
+32,0,48503,Suburban,1,0,Midnight,Pop up,Fashion,0
+18,1,26199,Suburban,0,0,Evening,Push notif,Sports,0
+25,1,31908,Rural,0,0,Afternoon,Banner,Sports,0
+26,0,29599,Rural,0,0,Afternoon,Banner,Sports,0
+31,0,49058,Urban,1,0,Midnight,Push notif,Sports,0
+27,0,15665,Urban,0,1,Evening,Push notif,Finance,0
+42,1,26982,Suburban,1,1,Midnight,Push notif,Sports,0
+26,0,48165,Suburban,0,1,Morning,Banner,Sports,0
+40,1,28733,Urban,0,0,Morning,Pop up,Finance,0
+47,1,26801,Urban,1,0,Afternoon,Push notif,Travel,0
+41,0,44510,Suburban,1,0,Morning,Push notif,Fashion,0
+42,1,27922,Urban,0,0,Evening,Pop up,Sports,0
+36,0,59527,Suburban,0,1,Midnight,Push notif,Finance,0
+21,1,55879,Suburban,0,0,Midnight,Push notif,Fashion,0
+50,1,17256,Suburban,1,1,Morning,Banner,Travel,0
+25,1,38673,Urban,1,1,Afternoon,Pop up,Finance,0
+21,1,22580,Suburban,0,1,Morning,Pop up,Fashion,0
+24,0,46451,Urban,1,0,Midnight,Pop up,Travel,0
+29,0,18151,Suburban,0,1,Evening,Pop up,Finance,0
+43,1,18016,Suburban,1,1,Evening,Banner,Sports,0
+40,0,59809,Urban,1,1,Evening,Banner,Sports,0
+33,0,41662,Suburban,0,1,Evening,Push notif,Fashion,0
+34,0,51829,Suburban,1,1,Afternoon,Banner,Finance,0
+47,0,15386,Rural,0,1,Morning,Pop up,Fashion,0
+20,0,52809,Rural,1,0,Evening,Pop up,Travel,0
+40,0,29625,Urban,0,0,Morning,Pop up,Sports,0
+19,1,35448,Urban,0,0,Afternoon,Push notif,Travel,0
+25,0,30252,Rural,0,0,Evening,Banner,Finance,0
+18,0,22803,Rural,0,0,Midnight,Banner,Fashion,0
+37,0,57197,Suburban,1,0,Afternoon,Banner,Travel,0
+24,0,13746,Urban,1,0,Afternoon,Banner,Finance,0
+27,0,21108,Suburban,1,1,Morning,Push notif,Finance,0
+26,1,47652,Rural,0,0,Afternoon,Push notif,Travel,0
+40,1,30094,Rural,1,1,Afternoon,Pop up,Travel,0
+19,1,41233,Suburban,0,1,Morning,Banner,Travel,0
+50,1,57507,Suburban,1,0,Evening,Pop up,Sports,0
+27,1,48308,Rural,1,0,Morning,Pop up,Sports,0
+38,1,34759,Suburban,0,0,Afternoon,Pop up,Sports,0
+18,1,57832,Rural,0,0,Morning,Push notif,Sports,0
+33,1,43288,Suburban,1,0,Morning,Pop up,Sports,0
+46,1,27356,Suburban,1,1,Evening,Push notif,Sports,0
+31,0,40397,Suburban,1,0,Afternoon,Banner,Travel,0
+23,1,39186,Suburban,1,0,Midnight,Banner,Finance,0
+36,1,23231,Rural,0,1,Midnight,Push notif,Travel,0
+44,0,46503,Suburban,0,0,Midnight,Pop up,Finance,0
+41,1,35525,Rural,0,0,Evening,Push notif,Fashion,0
+49,1,48156,Suburban,1,0,Afternoon,Push notif,Finance,0
+23,0,16675,Rural,0,1,Afternoon,Pop up,Finance,0
+23,1,27111,Urban,1,1,Evening,Banner,Travel,0
+31,0,31862,Rural,1,0,Afternoon,Pop up,Sports,0
+47,0,53898,Suburban,0,0,Morning,Banner,Travel,0
+32,1,26194,Urban,1,1,Midnight,Banner,Sports,0
+31,0,45044,Suburban,0,0,Morning,Push notif,Fashion,0
+43,0,39668,Suburban,0,1,Evening,Pop up,Sports,0
+27,0,49153,Suburban,0,0,Midnight,Banner,Finance,0
+26,0,49131,Urban,0,0,Morning,Pop up,Finance,0
+29,1,53231,Urban,0,1,Morning,Push notif,Fashion,0
+37,1,27633,Rural,1,0,Morning,Banner,Finance,0
+18,0,17192,Urban,0,0,Afternoon,Pop up,Finance,0
+29,1,52809,Suburban,0,0,Midnight,Push notif,Fashion,0
+23,0,59492,Suburban,1,1,Morning,Pop up,Finance,0
+44,1,14110,Rural,1,1,Afternoon,Push notif,Finance,0
+20,1,14029,Suburban,0,0,Evening,Banner,Finance,0
+50,0,20377,Rural,1,1,Midnight,Banner,Sports,0
+19,1,52217,Rural,0,0,Afternoon,Banner,Travel,0
+21,1,42908,Rural,1,0,Evening,Banner,Finance,0
+18,0,31245,Rural,0,1,Evening,Push notif,Fashion,0
+28,0,51690,Suburban,1,0,Evening,Push notif,Sports,0
+28,1,29596,Urban,0,1,Morning,Pop up,Sports,0
+37,1,51000,Urban,1,0,Afternoon,Push notif,Fashion,0
+34,0,21925,Urban,0,1,Evening,Push notif,Finance,0
+38,1,18217,Urban,0,1,Evening,Banner,Sports,0
+45,1,25067,Rural,1,1,Midnight,Push notif,Sports,0
+24,0,20366,Urban,0,0,Morning,Push notif,Fashion,0
+21,0,15822,Urban,0,1,Afternoon,Push notif,Fashion,0
+24,0,54850,Urban,0,0,Afternoon,Banner,Fashion,0
+20,0,53670,Urban,0,0,Midnight,Banner,Sports,0
+29,1,52763,Urban,1,0,Afternoon,Banner,Travel,0
+28,1,29993,Urban,0,1,Midnight,Pop up,Travel,0
+26,0,33495,Suburban,1,1,Midnight,Banner,Sports,0
+44,1,54959,Rural,1,0,Morning,Banner,Sports,0
+29,1,41493,Rural,1,1,Afternoon,Banner,Travel,0
+22,0,14686,Urban,1,1,Midnight,Push notif,Travel,0
+25,1,41679,Urban,1,1,Midnight,Push notif,Finance,0
+39,1,37034,Urban,0,0,Morning,Push notif,Fashion,0
+20,0,49313,Rural,0,1,Midnight,Pop up,Travel,0
+26,1,45339,Rural,1,1,Afternoon,Banner,Sports,0
+45,0,25822,Urban,0,0,Evening,Banner,Travel,0
+23,1,28163,Rural,1,0,Evening,Push notif,Finance,0
+37,1,25265,Suburban,1,1,Morning,Banner,Fashion,0
+26,1,50996,Rural,1,0,Evening,Pop up,Finance,0
+39,0,52622,Suburban,0,0,Afternoon,Pop up,Travel,0
+42,0,44321,Rural,1,0,Evening,Push notif,Travel,0
+44,0,35772,Urban,1,0,Evening,Banner,Finance,0
+46,0,35507,Suburban,0,0,Evening,Pop up,Finance,0
+50,0,26863,Suburban,1,1,Afternoon,Pop up,Finance,0
+22,1,14833,Rural,0,1,Morning,Push notif,Travel,0
+20,0,17415,Suburban,0,1,Morning,Push notif,Finance,0
+25,1,31229,Suburban,1,1,Morning,Push notif,Fashion,0
+40,0,37189,Suburban,1,1,Afternoon,Push notif,Sports,0
+19,1,25081,Rural,0,0,Midnight,Banner,Finance,0
+35,0,16772,Urban,0,0,Midnight,Pop up,Finance,0
+35,0,35935,Suburban,1,1,Afternoon,Push notif,Travel,0
+38,1,53680,Suburban,1,1,Midnight,Push notif,Fashion,0
+38,0,32017,Rural,1,0,Evening,Push notif,Travel,0
+32,1,23246,Urban,0,0,Midnight,Pop up,Travel,0
+20,1,20972,Urban,0,1,Midnight,Push notif,Sports,0
+41,1,13721,Rural,0,1,Morning,Push notif,Fashion,0
+42,1,37983,Suburban,0,1,Evening,Pop up,Fashion,0
+18,1,15197,Urban,0,1,Midnight,Banner,Travel,0
+37,0,31579,Suburban,1,1,Midnight,Banner,Finance,0
+21,0,39446,Urban,1,0,Afternoon,Push notif,Finance,0
+44,1,38023,Rural,0,1,Morning,Pop up,Sports,0
+37,1,40688,Suburban,1,0,Morning,Push notif,Fashion,0
+47,1,52605,Urban,1,1,Morning,Pop up,Sports,0
+30,1,49046,Urban,0,1,Afternoon,Banner,Finance,0
+48,0,42570,Rural,0,0,Morning,Push notif,Travel,0
+34,1,49940,Suburban,1,1,Morning,Pop up,Travel,0
+36,1,47619,Urban,1,1,Morning,Banner,Travel,0
+35,0,47528,Urban,1,0,Midnight,Banner,Finance,0
+24,0,32019,Rural,0,1,Midnight,Banner,Sports,0
+32,0,22092,Rural,0,0,Morning,Banner,Travel,0
+39,1,46709,Urban,1,0,Afternoon,Push notif,Sports,0
+36,1,47932,Urban,0,0,Morning,Pop up,Fashion,0
+34,1,31345,Urban,0,1,Midnight,Push notif,Sports,0
+48,0,52025,Urban,1,0,Afternoon,Pop up,Fashion,0
+49,0,49949,Rural,1,1,Evening,Pop up,Finance,0
+39,1,59729,Rural,0,0,Afternoon,Banner,Travel,0
+49,1,50469,Rural,1,0,Midnight,Banner,Travel,0
+26,1,21959,Rural,0,0,Morning,Push notif,Travel,0
+36,1,17743,Suburban,0,0,Midnight,Push notif,Finance,0
+49,1,59008,Rural,0,1,Evening,Banner,Fashion,0
+47,0,17663,Rural,0,0,Evening,Push notif,Sports,0
+30,0,29179,Rural,0,1,Afternoon,Pop up,Fashion,0
+36,0,19880,Rural,1,1,Afternoon,Push notif,Finance,0
+19,0,51217,Rural,1,0,Afternoon,Banner,Finance,0
+42,0,51793,Urban,0,1,Afternoon,Pop up,Fashion,0
+40,0,47560,Urban,0,1,Morning,Pop up,Travel,0
+22,0,41314,Suburban,0,1,Midnight,Pop up,Finance,0
+40,1,29516,Urban,0,1,Evening,Push notif,Finance,0
+41,0,17680,Suburban,1,1,Evening,Pop up,Finance,0
+47,0,48696,Suburban,0,1,Midnight,Push notif,Sports,0
+36,1,15229,Urban,1,1,Morning,Banner,Finance,0
+23,1,42413,Rural,0,0,Midnight,Push notif,Finance,0
+45,0,21357,Suburban,0,0,Afternoon,Pop up,Sports,0
+47,1,34187,Suburban,1,1,Evening,Push notif,Sports,0
+32,1,36075,Urban,0,0,Morning,Push notif,Finance,0
+30,0,21091,Rural,0,0,Evening,Push notif,Fashion,0
+23,0,35362,Urban,1,1,Morning,Pop up,Travel,0
+41,0,43180,Urban,0,1,Evening,Pop up,Fashion,0
+31,1,41740,Suburban,0,0,Evening,Pop up,Travel,0
+35,0,17871,Suburban,1,0,Morning,Push notif,Fashion,0
+48,0,29687,Rural,1,1,Evening,Banner,Finance,0
+29,0,49480,Suburban,1,0,Morning,Pop up,Sports,0
+30,0,36087,Rural,1,0,Afternoon,Banner,Finance,0
+44,1,30438,Suburban,0,0,Morning,Push notif,Finance,0
+49,1,24294,Urban,1,0,Evening,Push notif,Finance,0
+34,0,19508,Suburban,0,1,Evening,Push notif,Finance,0
+21,1,40517,Rural,1,1,Midnight,Banner,Finance,0
+19,1,36923,Urban,1,0,Afternoon,Pop up,Travel,0
+37,1,35498,Rural,1,0,Morning,Pop up,Finance,0
+35,1,44049,Rural,1,1,Afternoon,Banner,Travel,0
+20,0,43184,Rural,0,0,Evening,Push notif,Travel,0
+29,0,27572,Suburban,0,0,Afternoon,Push notif,Sports,0
+38,0,46784,Urban,1,1,Morning,Banner,Fashion,0
+28,0,41111,Rural,0,0,Evening,Pop up,Finance,0
+21,0,26901,Urban,1,0,Evening,Push notif,Travel,0
+47,0,26615,Rural,0,0,Evening,Push notif,Travel,0
+21,1,35930,Suburban,1,0,Afternoon,Banner,Sports,0
+41,1,28362,Rural,0,1,Midnight,Banner,Sports,0
+34,0,17652,Urban,1,0,Afternoon,Banner,Finance,0
+37,0,37027,Urban,0,0,Afternoon,Push notif,Sports,0
+22,1,16511,Suburban,0,1,Morning,Push notif,Travel,0
+39,0,23389,Rural,0,0,Morning,Banner,Travel,0
+31,0,51973,Rural,1,1,Morning,Pop up,Sports,0
+20,0,28220,Urban,1,1,Midnight,Pop up,Finance,0
+23,0,50114,Urban,0,0,Morning,Pop up,Travel,0
+49,0,16606,Rural,1,0,Afternoon,Push notif,Fashion,0
+18,0,13294,Suburban,0,0,Evening,Banner,Travel,0
+45,1,52175,Urban,1,1,Evening,Banner,Finance,0
+42,0,20719,Suburban,0,1,Evening,Push notif,Travel,0
+18,0,51888,Rural,1,0,Evening,Pop up,Sports,0
+26,1,45621,Urban,0,0,Morning,Pop up,Travel,0
+23,1,35346,Rural,0,0,Afternoon,Banner,Fashion,0
+32,0,44920,Suburban,1,1,Morning,Pop up,Sports,0
+29,0,29992,Rural,0,1,Morning,Push notif,Travel,0
+37,0,51673,Suburban,1,1,Morning,Pop up,Sports,0
+29,0,54567,Rural,1,1,Afternoon,Push notif,Finance,0
+29,1,20683,Suburban,0,1,Afternoon,Banner,Sports,0
+31,0,17536,Urban,0,0,Afternoon,Push notif,Finance,0
+36,1,34854,Rural,1,0,Evening,Pop up,Sports,0
+38,1,30422,Suburban,0,0,Afternoon,Pop up,Travel,0
+39,0,17527,Rural,0,1,Afternoon,Push notif,Travel,0
+42,1,40712,Rural,1,1,Morning,Banner,Fashion,0
+43,0,47098,Rural,0,1,Midnight,Banner,Fashion,0
+43,0,45944,Urban,1,0,Evening,Pop up,Sports,0
+30,1,43971,Rural,1,1,Afternoon,Pop up,Travel,0
+50,0,54065,Urban,1,1,Evening,Push notif,Travel,0
+22,0,20794,Rural,1,1,Morning,Push notif,Sports,0
+39,1,39084,Rural,1,1,Morning,Banner,Finance,0
+37,1,38181,Suburban,0,1,Midnight,Pop up,Sports,0
