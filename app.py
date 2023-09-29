@@ -6,12 +6,12 @@ import numpy as np
 import random
 import pickle
 
-model = pickle.load(open('recommender2.pkl', 'rb'))
+model = pickle.load(open('recommender.pkl', 'rb'))
 
 st.subheader('Ad recommender')
 with st.form('form1'):
 
-    col1, col2 = st.columns(2)
+    col1, col2, col3 = st.columns(3)
     with col1:
         time = st.selectbox('Time', ("Morning", "Afternoon", "Evening", "Midnight"))
         age = st.number_input("Age", min_value=1, max_value=100, step=1)
@@ -23,6 +23,19 @@ with st.form('form1'):
         sex_ = st.radio('Sex', ["Male", "Female"])
         personality = st.radio('Personality', ["Introvert", "Extrovert"])
         day = st.radio('Day', ["Weekday", "Weekend"])
+        bank = int(st.checkbox('Bank account linked'))
+
+    with col3:
+        with st.container():
+            st.write('Billers used')
+            biller_meralco = int(st.checkbox('Meralco'))
+            biller_pldt = int(st.checkbox('PLDT'))
+            biller_maynilad = int(st.checkbox('Maynilad'))
+        
+
+        loan = st.number_input('Total outstanding loan', min_value=0, max_value=100000, step=1)
+        trans_ave = st.number_input('Ave. transaction count', min_value=0, max_value=1000, step=1)
+        trans_sd = st.number_input('SD transaction count', min_value=0, max_value=1000, step=1)
 
     submitted = st.form_submit_button("Submit")
 
@@ -44,13 +57,23 @@ if submitted == True:
     else:
         weekday = 0
 
-    X_dict = {'Age': age, 'Male': sex, 'Income': income, "Area": area, 'Extrovert': extrovert, 'Weekday': weekday, "Time": time}
+    columns = ['Age', 'Male', 'Income', 'Extrovert', 'Weekday', 'Biller_Meralco',
+       'Biller_PLDT', 'Biller_Maynilad', 'Total Outstanding Loan',
+       'Linked Bank Account', 'Ave Transaction Count', 'SD Transaction Count',
+       'Area', 'Time']
+
+    values = [age, sex, income, extrovert, weekday, biller_meralco, biller_pldt, biller_maynilad, loan, bank, trans_ave, trans_sd, area, time]
+
+    X_dict = dict(zip(columns,values))
+
     X = pd.DataFrame(X_dict, index=[0])
     X = pd.get_dummies(X, dtype='int')
 
-    df_template = pd.DataFrame(None, columns=['Age', 'Male', 'Income', 'Extrovert', 'Weekday', 'Area_Rural',
-    'Area_Suburban', 'Area_Urban', 'Time_Afternoon', 'Time_Evening',
-    'Time_Midnight', 'Time_Morning'])
+    df_template = pd.DataFrame(None, columns=['Age', 'Male', 'Income', 'Extrovert', 'Weekday', 'Biller_Meralco',
+       'Biller_PLDT', 'Biller_Maynilad', 'Total Outstanding Loan',
+       'Linked Bank Account', 'Ave Transaction Count', 'SD Transaction Count',
+       'Area_Rural', 'Area_Suburban', 'Area_Urban', 'Time_Afternoon',
+       'Time_Evening', 'Time_Midnight', 'Time_Morning'])
 
     df_merged = pd.concat([df_template, X]).fillna(0)
     predicted = model.predict(df_merged)
