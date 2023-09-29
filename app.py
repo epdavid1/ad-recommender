@@ -6,7 +6,7 @@ import numpy as np
 import random
 import pickle
 
-model = pickle.load(open('recommender.pkl', 'rb'))
+model = pickle.load(open('recommender2.pkl', 'rb'))
 
 st.subheader('Ad recommender')
 with st.form('form1'):
@@ -54,6 +54,19 @@ if submitted == True:
 
     df_merged = pd.concat([df_template, X]).fillna(0)
     predicted = model.predict(df_merged)
+    predicted_df = pd.DataFrame(predicted, columns=['Push notif', 'Banner', 'Popup'])
+    predicted_df = predicted_df.rename_axis('CustomerID')
 
     st.write('Recommended Ad')
-    st.write(pd.DataFrame(predicted, columns=['Ad spot', 'Ad variant']))
+    st.write(predicted_df)
+
+
+    reward_dict = {'Sports': 30, 'Fashion':20, 'Finance': 25, 'Travel': 25}
+
+    ad_variants = ['Sports', 'Fashion', 'Finance', 'Travel']
+    actual_df = predicted_df.copy()
+    actual_df['Push notif'] = random.choice(ad_variants)
+    actual_df['Banner'] = random.choice(ad_variants)
+    actual_df['Popup'] =  random.choice(ad_variants)
+    equal_df = predicted_df == actual_df
+
